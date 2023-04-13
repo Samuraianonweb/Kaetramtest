@@ -1,0 +1,5648 @@
+{
+  "sword2": {
+    "type": "weapon",
+    "weaponType": "sword",
+    "name": "Тяжелый меч",
+    "level": 2,
+    "price": 500,
+    "attackStats": {
+      "crush": 2,
+      "slash": 6,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "axe": {
+    "type": "weapon",
+    "name": "Топор",
+    "weaponType": "axe",
+    "lumberjacking": 1,
+    "level": 1,
+    "price":250,
+    "attackStats": {
+      "crush": 4,
+      "slash": 2,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "pickaxe": {
+    "type": "weapon",
+    "name": "Кирка",
+    "weaponType": "pickaxe",
+    "mining": 1,
+    "level": 1,
+    "price": 10000,
+    "attackStats": {
+      "crush": 4,
+      "slash": 0,
+      "stab": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "morningstar": {
+    "type": "weapon",
+    "name": "Утренняя звезда",
+    "weaponType": "blunt",
+    "level": 6,
+    "price": 1000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 6,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "bluesword": {
+    "type": "weapon",
+    "name": "Водяной меч",
+    "weaponType": "sword",
+    "level": 10,
+    "price": 1500,
+    "attackStats": {
+      "crush": 5,
+      "slash": 16,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+ 
+  "redsword": {
+    "type": "weapon",
+    "name": "Огненный меч",
+    "weaponType": "sword",
+    "level": 14,
+    "price": 5000,
+    "attackStats": {
+      "crush": 8,
+      "slash": 17,
+      "stab": 19,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "goldensword": {
+    "type": "weapon",
+    "name": "Золотой меч",
+    "weaponType": "sword",
+    "level": 48,
+    "price": 3500,
+    "attackStats": {
+      "crush": 14,
+      "slash": 34,
+      "stab": 18,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": -2
+    },
+    "bonuses": {
+      "accuracy": 13,
+      "strength": 14,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "sidesword": {
+    "type": "weapon",
+    "name": "Боковой меч",
+    "weaponType": "sword",
+    "level": 64,
+    "price": 1250,
+    "attackStats": {
+      "crush": 18,
+      "slash": 38,
+      "stab": 14,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 24,
+      "strength": 12,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "spear": {
+    "type": "weapon",
+    "name": "Глупое копье",
+    "weaponType": "spear",
+    "level": 28,
+    "price": 1100,
+    "attackStats": {
+      "crush": 16,
+      "slash": 12,
+      "stab": 30,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 19,
+      "strength": 6,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "scimitar": {
+    "type": "weapon",
+    "name": "Пиратский скимитар",
+    "weaponType": "sword",
+    "level": 30,
+    "price": 3000,
+    "attackStats": {
+      "crush": 6,
+      "slash": 41,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 18,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "trident": {
+    "type": "weapon",
+    "name": "Трайдент морей",
+    "weaponType": "spear",
+    "level": 40,
+    "price": 4000,
+    "attackStats": {
+      "crush": 4,
+      "slash": 42,
+      "stab": 22,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 18,
+      "stab": 2,
+      "archery": 0,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": 18,
+      "strength": 12,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "bluescimitar": {
+    "type": "weapon",
+    "name": "Голубой скимитар",
+    "weaponType": "sword",
+    "level": 46,
+    "price": 2200,
+    "attackStats": {
+      "crush": 18,
+      "slash": 14,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "hammer": {
+    "type": "weapon",
+    "name": "Молоток",
+    "weaponType": "blunt",
+    "level": 50,
+    "price": 2000,
+    "attackStats": {
+      "crush": 40,
+      "slash": 4,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 24,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "greenlightsaber": {
+    "type": "weapon",
+    "name": "Зеленая световая сабля",
+    "weaponType": "sword",
+    "price": 4850,
+    "level": 56,
+    "attackStats": {
+      "crush": 0,
+      "slash": 42,
+      "stab": 22,
+      "archery": 0,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 8,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "skylightsaber": {
+    "type": "weapon",
+    "name": "Небесная световая сабля",
+    "weaponType": "sword",
+    "price": 1600,
+    "level": 57,
+    "attackStats": {
+      "crush": 0,
+      "slash": 40,
+      "stab": 26,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 12,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "redlightsaber": {
+    "type": "weapon",
+    "name": "Красный световой меч",
+    "weaponType": "sword",
+    "level": 56,
+    "price": 1575,
+    "attackStats": {
+      "crush": 0,
+      "slash": 36,
+      "stab": 16,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "bastardsword": {
+    "type": "weapon",
+    "name": "Тяжелый меч",
+    "weaponType": "bigsword",
+    "attackRate": 1350,
+    "skill": "strength",
+    "level": 40,
+    "price": 1250,
+    "attackStats": {
+      "crush": 35,
+      "slash": 50,
+      "stab": 6,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 30,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "redmetalsword": {
+    "type": "weapon",
+    "name": "Красный металлический меч",
+    "weaponType": "bigsword",
+    "attackRate": 4550,
+    "skill": "strength",
+    "level": 42,
+    "price": 5050,
+    "attackStats": {
+      "crush": 28,
+      "slash": 60,
+      "stab": 4,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 34,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "justicehammer": {
+    "type": "weapon",
+    "name": "Молот правосудия",
+    "weaponType": "blunt",
+    "skill": "strength",
+    "level": 5000,
+    "price": 250,
+    "attackStats": {
+      "crush": 50,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 36,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "rose": {
+    "type": "weapon",
+    "name": "Роза",
+    "weaponType": "blunt",
+    "level": 36,
+    "price": 500,
+    "attackStats": {
+      "crush": 36,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "icerose": {
+    "type": "weapon",
+    "name": "Ледяная роза",
+    "weaponType": "blunt",
+    "level": 86,
+    "price": 3500,
+    "attackStats": {
+      "crush": 38,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "halberd": {
+    "type": "weapon",
+    "name": "Алебарда",
+    "weaponType": "axe",
+    "level": 90,
+    "price": 2228,
+    "attackStats": {
+      "crush": 12,
+      "slash": 44,
+      "stab": 24,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 23,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "whip": {
+    "type": "weapon",
+    "name": "Кнут",
+    "weaponType": "whip",
+    "skill": "accuracy",
+    "level": 50,
+    "price": 2500,
+    "attackStats": {
+      "crush": 2,
+      "slash": 84,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 44,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "forestguardiansword": {
+    "type": "weapon",
+    "name": "Меч лесного стража",
+    "weaponType": "sword",
+    "level": 106,
+    "price": 4100,
+    "attackStats": {
+      "crush": 2,
+      "slash": 40,
+      "stab": 16,
+      "archery": 0,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 14,
+      "strength": 14,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "sickle": {
+    "type": "weapon",
+    "name": "Серп",
+    "weaponType": "sword",
+    "level": 110,
+    "price": 3125,
+    "attackStats": {
+      "crush": 0,
+      "slash": 48,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 24,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "plunger": {
+    "type": "weapon",
+    "name": "Плунжер",
+    "weaponType": "blunt",
+    "level": 98,
+    "price": 310,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 30,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 14,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "redsickle": {
+    "type": "weapon",
+    "name": "Красный серп",
+    "weaponType": "sword",
+    "level": 116,
+    "price": 411,
+    "attackStats": {
+      "crush": 0,
+      "slash": 52,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 24,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "daywalker": {
+    "type": "weapon",
+    "name": "Дневной ходок",
+    "weaponType": "axe",
+    "level": 140,
+    "price": 7500,
+    "attackStats": {
+      "crush": 8,
+      "slash": 60,
+      "stab": 8,
+      "archery": 0,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 14,
+      "strength": 30,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "purplecloudkallege": {
+    "type": "weapon",
+    "name": "Пурпурное облако Калледж",
+    "weaponType": "axe",
+    "level": 160,
+    "price": 5000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 60,
+      "stab": 18,
+      "archery": 0,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 32,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "searage": {
+    "type": "weapon",
+    "name": "Морская ярость",
+    "weaponType": "bigsword",
+    "level": 160,
+    "price": 2500,
+    "attackStats": {
+      "crush": 48,
+      "slash": 20,
+      "stab": 10,
+      "archery": 0,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 36,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "breaker": {
+    "type": "weapon",
+    "name": "Выключатель",
+    "weaponType": "axe",
+    "level": 176,
+    "price": 3500,
+    "attackStats": {
+      "crush": 50,
+      "slash": 30,
+      "stab": 20,
+      "archery": 0,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 38,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "eneltrident": {
+    "type": "weapon",
+    "name": "Энел Трайдент",
+    "weaponType": "spear",
+    "price": 30000,
+    "level": 200,
+    "attackStats": {
+      "crush": 56,
+      "slash": 30,
+      "stab": 10,
+      "archery": 0,
+      "magic": 60
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 44,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "rainbowsword": {
+    "type": "weapon",
+    "name": "Радужный меч",
+    "weaponType": "sword",
+    "level": 110,
+    "price": 2000,
+    "attackStats": {
+      "crush": 40,
+      "slash": 20,
+      "stab": 10,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "typhoon": {
+    "type": "weapon",
+    "name": "Тайфун",
+    "weaponType": "axe",
+    "level": 106,
+    "price": 2500,
+    "attackStats": {
+      "crush": 20,
+      "slash": 40,
+      "stab": 10,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 10,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "memme": {
+    "type": "weapon",
+    "name": "меме",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 216,
+    "attackStats": {
+      "crush": 50,
+      "slash": 36,
+      "stab": 20,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 18,
+      "strength": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "candybar": {
+    "type": "weapon",
+    "name": "Конфетный батончик",
+    "weaponType": "blunt",
+    "level": 148,
+    "price": 1000,
+    "attackStats": {
+      "crush": 60,
+      "slash": 10,
+      "stab": 10,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 22,
+      "strength": 42,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "butcherknife": {
+    "type": "weapon",
+    "name": "Нож мясника",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 138,
+    "attackStats": {
+      "crush": 20,
+      "slash": 40,
+      "stab": 15,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 20,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "fireshot": {
+    "type": "weapon",
+    "name": "Огненный выстрел",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 216,
+    "attackStats": {
+      "crush": 30,
+      "slash": 50,
+      "stab": 20,
+      "archery": 0,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 38,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "comb": {
+    "type": "weapon",
+    "name": "Расческа",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 226,
+    "attackStats": {
+      "crush": 10,
+      "slash": 40,
+      "stab": 10,
+      "archery": 0,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "squeakyhammer": {
+    "type": "weapon",
+    "name": "Скрипучий молоток",
+    "weaponType": "blunt",
+    "skill": "strength",
+    "level": 66,
+    "price": 10000,
+    "attackStats": {
+      "crush": 84,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "fireplay": {
+    "type": "weapon",
+    "name": "Игра огня",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 300,
+    "attackStats": {
+      "crush": 30,
+      "slash": 54,
+      "stab": 20,
+      "archery": 0,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 44,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "staff": {
+    "type": "weaponmagic",
+    "name": "Волшебный посох",
+    "weaponType": "staff",
+    "price": 1500,
+    "manaCost": 2,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 21
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 12
+    },
+    "attackRange": 9,
+    "projectileName": "projectile-purplebolt"
+  },
+
+  "lightningstaff": {
+    "type": "weaponmagic",
+    "name": "Молниеносный посох",
+    "weaponType": "staff",
+    "skill": "magic",
+    "price": 7500,
+    "manaCost": 4,
+    "level": 10,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 28
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 0,
+      "magic": 19
+    },
+    "attackRange": 9,
+    "projectileName": "projectile-yellowlightning"
+  },
+
+  "naturestaff": {
+    "type": "weaponmagic",
+    "name": "Природный посох",
+    "weaponType": "staff",
+    "skill": "magic",
+    "price": 12500,
+    "manaCost": 6,
+    "level": 17,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 36
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 0,
+      "archery": 0,
+      "magic": 26
+    },
+    "attackRange": 9,
+    "projectileName": "projectile-greenbolt"
+  },
+
+  "firestaff": {
+    "type": "weaponmagic",
+    "name": "Пожарный посох",
+    "weaponType": "staff",
+    "skill": "magic",
+    "price": 22500,
+    "manaCost": 7,
+    "level": 25,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 44
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 0,
+      "archery": 0,
+      "magic": 38
+    },
+    "attackRange": 9,
+    "projectileName": "projectile-fireball"
+  },
+
+  "icestaff": {
+    "type": "weaponmagic",
+    "name": "Холодный помох",
+    "weaponType": "staff",
+    "skill": "magic",
+    "price": 40000,
+    "manaCost": 9,
+    "level": 35,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": 51
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 0,
+      "archery": 0,
+      "magic": 48
+    },
+    "attackRange": 9,
+    "projectileName": "projectile-iceball"
+  },
+
+  "pinksword": {
+    "type": "weapon",
+    "name": "Розовый меч",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 256,
+    "attackStats": {
+      "crush": 50,
+      "slash": 70,
+      "stab": 30,
+      "archery": 0,
+      "magic": 20
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "conferencecall": {
+    "type": "weapon",
+    "name": "Палка",
+    "weaponType": "axe",
+    "price": 30000,
+    "level": 342,
+    "attackStats": {
+      "crush": 60,
+      "slash": 80,
+      "stab": 40,
+      "archery": 0,
+      "magic": 30
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 60,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+  
+  "rustedaxe": {
+    "type": "weapon",
+    "name": "Ржавый топор",
+    "weaponType": "axe",
+    "price": 5000,
+    "lumberjacking": 2,
+    "level": 5,
+    "skill": "strength",
+    "attackStats": {
+      "crush": 4,
+      "slash": 4,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "fireaxe": {
+    "type": "weapon",
+    "name": "Огненный топор",
+    "weaponType": "axe",
+    "price": 7500,
+    "lumberjacking": 3,
+    "skill": "strength",
+    "level": 16,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 2,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "poisonaxe": {
+    "type": "weapon",
+    "name": "Ядовитый топор",
+    "weaponType": "axe",
+    "price": 10000,
+    "poisonous": true,
+    "lumberjacking": 4,
+    "skill": "strength",
+    "level": 24,
+    "attackStats": {
+      "crush": 4,
+      "slash": 24,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "cactusaxe": {
+    "type": "weapon",
+    "name": "Кактусовый топор",
+    "weaponType": "axe",
+    "price": 15000,
+    "lumberjacking": 6,
+    "skill": "strength",
+    "level": 36,
+    "attackStats": {
+      "crush": 8,
+      "slash": 31,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 16,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "goldaxe": {
+    "type": "weapon",
+    "name": "Золотой топор",
+    "weaponType": "axe",
+    "price": 25000,
+    "lumberjacking": 7,
+    "skill": "strength",
+    "level": 44,
+    "attackStats": {
+      "crush": 24,
+      "slash": 32,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 18,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "carnelianaxe": {
+    "type": "weapon",
+    "name": "Топор из сердолика",
+    "weaponType": "axe",
+    "price": 50000,
+    "lumberjacking": 8,
+    "skill": "strength",
+    "level": 56,
+    "attackStats": {
+      "crush": 30,
+      "slash": 45,
+      "stab": 2,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 24,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "devilkazyasword": {
+    "type": "weapon",
+    "name": "Меч дьявола Казая",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 240,
+    "attackStats": {
+      "crush": 40,
+      "slash": 100,
+      "stab": 50,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "bamboospear": {
+    "type": "weapon",
+    "name": "Бамбуковое копье",
+    "weaponType": "spear",
+    "price": 50000,
+    "level": 256,
+    "attackStats": {
+      "crush": 10,
+      "slash": 20,
+      "stab": 100,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 30,
+      "strength": 30,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "wolfsword": {
+    "type": "weapon",
+    "name": "Волчий меч",
+    "weaponType": "sword",
+    "price": 50000,
+    "level": 256,
+    "attackStats": {
+      "crush": 10,
+      "slash": 120,
+      "stab": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 45,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "deathflail": {
+    "type": "weapon",
+    "name": "Копье смерти",
+    "weaponType": "blunt",
+    "price": 50000,
+    "level": 256,
+    "attackStats": {
+      "crush": 150,
+      "slash": 20,
+      "stab": 10,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 64,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "paewoldo": {
+    "type": "weapon",
+    "name": "Пэвольдо",
+    "weaponType": "sword",
+    "price": 30000,
+    "level": 400,
+    "attackStats": {
+      "crush": 19,
+      "slash": 124,
+      "stab": 38,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 18,
+      "strength": 69,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "magicspear": {
+    "type": "weapon",
+    "name": "Волшебное копье",
+    "weaponType": "spear",
+    "price": 30000,
+    "level": 400,
+    "attackStats": {
+      "crush": 10,
+      "slash": 20,
+      "stab": 120,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 20,
+      "strength": 40,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "firesword": {
+    "type": "weapon",
+    "name": "Огненный меч",
+    "weaponType": "staff"
+  },
+
+  "pendant1": {
+    "type": "pendant",
+    "name": "Подвеска",
+    "price": 1650,
+    "attackStats": {
+      "crush": 8,
+      "slash": 8,
+      "stab": 8,
+      "archery": 0,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 5,
+      "slash": 5,
+      "stab": 5,
+      "archery": 0,
+      "magic": 3
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 2,
+      "archery": 2,
+      "magic": 3
+    }
+  },
+
+  "greenpendant": {
+    "type": "pendant",
+    "name": "Нефритовый кулон",
+    "price": 2500,
+    "attackStats": {
+      "crush": 11,
+      "slash": 12,
+      "stab": 10,
+      "archery": 0,
+      "magic": 7
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 10,
+      "stab": 10,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 4,
+      "archery": 3,
+      "magic": 4
+    }
+  },
+
+  "pearlpendant": {
+    "type": "pendant",
+    "name": "Жемчужная кулон",
+    "price": 4450,
+    "attackStats": {
+      "crush": 16,
+      "slash": 16,
+      "stab": 16,
+      "archery": 0,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 15,
+      "stab": 15,
+      "archery": 0,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 8,
+      "archery": 4,
+      "magic": 6
+    }
+  },
+
+  "marblependant": {
+    "type": "pendant",
+    "name": "Алмазный кулон",
+    "price": 16500,
+    "attackStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 18,
+      "archery": 0,
+      "magic": 12
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 20,
+      "stab": 20,
+      "archery": 0,
+      "magic": 13
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 12,
+      "archery": 6,
+      "magic": 10
+    }
+  },
+
+  "rubypendant": {
+    "type": "pendant",
+    "name": "Рубиновый кулон",
+    "price": 4500,
+    "attackStats": {
+      "crush": 3,
+      "slash": 3,
+      "stab": 3,
+      "archery": 0,
+      "magic": 7
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 2,
+      "stab": 4,
+      "archery": 0,
+      "magic": 14
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 1,
+      "magic": 4
+    }
+  },
+
+  "emeraldpendant": {
+    "type": "pendant",
+    "name": "Изумрудный кулон",
+    "price": 10050,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 2,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 3,
+      "stab": 7,
+      "archery": 0,
+      "magic": 23
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 1,
+      "magic": 6
+    }
+  },
+
+  "goldring": {
+    "type": "ring",
+    "name": "Золотое кольцо",
+    "price": 125000
+  },
+  
+  "silverring": {
+    "type": "ring",
+    "name": "Серебряное кольцо",
+    "price": 52500
+  },
+
+  "ring1": {
+    "type": "ring",
+    "name": "Изумрудное кольцо",
+    "price": 1500,
+    "attackStats": {
+      "crush": 8,
+      "slash": 8,
+      "stab": 8,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 5,
+      "slash": 5,
+      "stab": 5,
+      "archery": 0,
+      "magic": 3
+    },
+    "bonuses": {
+      "accuracy": 2,
+      "strength": 2,
+      "archery": 2,
+      "magic": 2
+    }
+  },
+
+  "sproutring": {
+    "type": "ring",
+    "name": "Кольцо для рассады",
+    "price": 2350,
+    "attackStats": {
+      "crush": 10,
+      "slash": 10,
+      "stab": 10,
+      "archery": 0,
+      "magic": 3
+    },
+    "defenseStats": {
+      "crush": 7,
+      "slash": 8,
+      "stab": 7,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 8,
+      "archery": 3,
+      "magic": 3
+    }
+  },
+
+  "pearlring": {
+    "type": "ring",
+    "name": "Кольцо с жемчугом",
+    "price": 3600,
+    "attackStats": {
+      "crush": 16,
+      "slash": 16,
+      "stab": 16,
+      "archery": 0,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 15,
+      "slash": 15,
+      "stab": 15,
+      "archery": 0,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 8,
+      "archery": 4,
+      "magic": 5
+    }
+  },
+
+  "topazring": {
+    "type": "ring",
+    "name": "Кольцо с топазом",
+    "price": 9800,
+    "attackStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 18,
+      "archery": 0,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 20,
+      "stab": 20,
+      "archery": 0,
+      "magic": 13
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 10,
+      "archery": 6,
+      "magic": 8
+    }
+  },
+
+  "spiritring": {
+    "type": "ring",
+    "name": "Кольцо духа",
+    "price": 10050,
+    "attackStats": {
+      "crush": 12,
+      "slash": 10,
+      "stab": 8,
+      "archery": 0,
+      "magic": 28
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 10,
+      "stab": 8,
+      "archery": 0,
+      "magic": 28
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 4,
+      "archery": 16,
+      "magic": 12
+    }
+  },
+
+  "essentialrage": {
+    "type": "ring",
+    "name": "Ярость сущности",
+    "price": 15500,
+    "attackStats": {
+      "crush": 22,
+      "slash": 34,
+      "stab": 18,
+      "archery": 0,
+      "magic": 12
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 30,
+      "stab": 16,
+      "archery": 0,
+      "magic": 13
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 14,
+      "archery": 12,
+      "magic": 12
+    }
+  },
+
+  "rubyring": {
+    "type": "ring",
+    "name": "Рубиновое кольцо",
+    "skill": "magic",
+    "level": 10,
+    "price": 12500,
+    "attackStats": {
+      "crush": 6,
+      "slash": 6,
+      "stab": 6,
+      "archery": 0,
+      "magic": 18
+    },
+    "defenseStats": {
+      "crush": 4,
+      "slash": 4,
+      "stab": 8,
+      "archery": 0,
+      "magic": 22
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 1,
+      "magic": 8
+    }
+  },
+
+  "sapphirering": {
+    "type": "ring",
+    "name": "Кольцо с сапфиром",
+    "skill": "magic",
+    "level": 20,
+    "price": 8650,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 22
+    },
+    "defenseStats": {
+      "crush": 1,
+      "slash": 7,
+      "stab": 11,
+      "archery": 0,
+      "magic": 22
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 2,
+      "magic": 11
+    }
+  },
+
+  "emeraldring": {
+    "type": "ring",
+    "name": "Изумрудное кольцо",
+    "skill": "magic",
+    "level": 30,
+    "price": 8650,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 1,
+      "slash": 7,
+      "stab": 11,
+      "archery": 0,
+      "magic": 33
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 2,
+      "magic": 8
+    }
+  },
+
+  "dolring": {
+    "type": "ring",
+    "name": "Фрагментированное кольцо",
+    "skill": "magic",
+    "level": 40,
+    "price": 11000,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 10
+    },
+    "defenseStats": {
+      "crush": 1,
+      "slash": 7,
+      "stab": 11,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 2,
+      "magic": 18
+    }
+  },
+
+  "diamondring": {
+    "type": "ring",
+    "name": "Бриллиантовое кольцо",
+    "skill": "magic",
+    "level": 50,
+    "price": 16500,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 17
+    },
+    "defenseStats": {
+      "crush": 1,
+      "slash": 7,
+      "stab": 11,
+      "archery": 0,
+      "magic": 33
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 2,
+      "magic": 14
+    }
+  },
+
+  "pytharring": {
+    "type": "ring",
+    "name": "Кольцо Пифара",
+    "skill": "strength",
+    "level": 50,
+    "price": 7500,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 7,
+      "stab": 5,
+      "archery": 0,
+      "magic": 7
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 16,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "nisocring": {
+    "type": "ring",
+    "name": "Кольцо Нисока",
+    "skill": "accuracy",
+    "level": 41,
+    "price": 7800,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 7,
+      "stab": 5,
+      "archery": 0,
+      "magic": 7
+    },
+    "bonuses": {
+      "accuracy": 16,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "archerarmor": {
+    "type": "archerarmor",
+    "name": "Доспехи лучника",
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "leatherarcherarmor": {
+    "type": "armourarcher",
+    "name": "Кожаные доспехи лучника",
+    "level": 2,
+    "price": 1000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 3,
+      "archery": 3,
+      "magic": -1
+    },
+    "defenseStats": {
+      "crush": 6,
+      "slash": 10,
+      "stab": 2,
+      "archery": 6,
+      "magic": -3
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 0,
+      "archery": 3,
+      "magic": 0
+    }
+  },
+
+  "mailarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника",
+    "level": 6,
+    "price": 1200,
+    "attackStats": {
+      "crush": 1,
+      "slash": 1,
+      "stab": 5,
+      "archery": 7,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 7,
+      "slash": 14,
+      "stab": 3,
+      "archery": 10,
+      "magic": 1
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 7,
+      "magic": 0
+    }
+  },
+
+  "platearcherarmor": {
+    "type": "armourarcher",
+    "name": "Пластинчатые доспехи лучника",
+    "skill": "archery",
+    "level": 10,
+    "price": 2000,
+    "attackStats": {
+      "crush": 3,
+      "slash": 8,
+      "stab": 5,
+      "archery": 6,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 11,
+      "slash": 10,
+      "stab": 8,
+      "archery": 11,
+      "magic": 1
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 9,
+      "magic": 0
+    }
+  },
+
+  "redarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи красного лучника",
+    "skill": "archery",
+    "level": 15,
+    "price": 2200,
+    "attackStats": {
+      "crush": 3,
+      "slash": 8,
+      "stab": 5,
+      "archery": 9,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 16,
+      "stab": 10,
+      "archery": 14,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": 10,
+      "magic": 0
+    }
+  },
+
+  "goldenarcherarmor": {
+    "type": "armourarcher",
+    "name": "Золотые доспехи лучника",
+    "skill": "archery",
+    "level": 17,
+    "price": 2300,
+    "attackStats": {
+      "crush": 4,
+      "slash": 7,
+      "stab": 6,
+      "archery": 12,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 20,
+      "stab": 10,
+      "archery": 14,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 0,
+      "archery": 12,
+      "magic": 0
+    }
+  },
+
+  "greenarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи зеленого лучника",
+    "skill": "archery",
+    "level": 18,
+    "price": 2600,
+    "attackStats": {
+      "crush": 8,
+      "slash": 8,
+      "stab": 8,
+      "archery": 9,
+      "magic": 3
+    },
+    "defenseStats": {
+      "crush": 8,
+      "slash": 16,
+      "stab": 6,
+      "archery": 10,
+      "magic": 3
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 14,
+      "magic": 0
+    }
+  },
+
+  "greenwingarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника Зеленого Крыла",
+    "skill": "archery",
+    "level": 20,
+    "price": 3000,
+    "attackStats": {
+      "crush": 9,
+      "slash": 10,
+      "stab": 8,
+      "archery": 11,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 9,
+      "slash": 18,
+      "stab": 9,
+      "archery": 20,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 0,
+      "archery": 15,
+      "magic": 0
+    }
+  },
+
+  "guardarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи гвардейского лучника",
+    "skill": "archery",
+    "level": 24,
+    "price": 3000,
+    "attackStats": {
+      "crush": 12,
+      "slash": 16,
+      "stab": 10,
+      "archery": 13,
+      "magic": 5
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 21,
+      "stab": 13,
+      "archery": 18,
+      "magic": 5
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 0,
+      "archery": 18,
+      "magic": 0
+    }
+  },
+
+  "redguardarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника Красной гвардии",
+    "skill": "archery",
+    "price": 3001,
+    "level": 28,
+    "attackStats": {
+      "crush": 12,
+      "slash": 18,
+      "stab": 12,
+      "archery": 19,
+      "magic": 5
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 24,
+      "stab": 15,
+      "archery": 21,
+      "magic": 5
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+
+  "whitearcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи белого лучника",
+    "skill": "archery",
+    "level": 30,
+    "price": 3300,
+    "attackStats": {
+      "crush": 12,
+      "slash": 20,
+      "stab": 14,
+      "archery": 12,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 28,
+      "stab": 17,
+      "archery": 34,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 0,
+      "archery": 20,
+      "magic": 0
+    }
+  },
+
+  "ratarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника-крысолова",
+    "skill": "archery",
+    "level": 32,
+    "price": 3500,  
+    "attackStats": {
+      "crush": 12,
+      "slash": 22,
+      "stab": 14,
+      "archery": 12,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 30,
+      "stab": 11,
+      "archery": 18,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 9,
+      "strength": 0,
+      "archery": 20,
+      "magic": 0
+    }
+  },
+
+  "piratearcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи пиратского лучника",
+    "skill": "archery",
+    "level": 30,
+    "price": 4200,
+    "attackStats": {
+      "crush": 10,
+      "slash": 22,
+      "stab": 14,
+      "archery": 20,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 30,
+      "stab": 14,
+      "archery": 14,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+  
+  "blackpiratearcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи пиратского лучника",
+    "skill": "archery",
+    "level": 30,
+    "price": 4200,
+    "attackStats": {
+      "crush": 10,
+      "slash": 22,
+      "stab": 14,
+      "archery": 18,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 30,
+      "stab": 14,
+      "archery": 18,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+
+  "greenpiratearcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи пиратского лучника",
+    "skill": "archery",
+    "level": 30,
+    "price": 4005,
+    "attackStats": {
+      "crush": 10,
+      "slash": 22,
+      "stab": 14,
+      "archery": 18,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 30,
+      "stab": 14,
+      "archery": 20,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+
+  "purplepiratearcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи пиратского лучника.",
+    "skill": "archery",
+    "level": 30,
+    "price": 4700,
+    "attackStats": {
+      "crush": 10,
+      "slash": 22,
+      "stab": 14,
+      "archery": 20,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 30,
+      "stab": 14,
+      "archery": 16,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+
+  "redpiratearcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи пиратского лучника",
+    "skill": "archery",
+    "level": 30,
+    "price": 4500,
+    "attackStats": {
+      "crush": 10,
+      "slash": 22,
+      "stab": 14,
+      "archery": 18,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 30,
+      "stab": 14,
+      "archery": 20,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+
+  "cheoliarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника Хеолии",
+    "skill": "archery",
+    "level": 34,
+    "price": 4500,
+    "attackStats": {
+      "crush": 12,
+      "slash": 20,
+      "stab": 14,
+      "archery": 21,
+      "magic": 6
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 24,
+      "stab": 22,
+      "archery": 21,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 0,
+      "archery": 22,
+      "magic": 0
+    }
+  },
+
+  "dovakinarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника Довакина",
+    "skill": "archery",
+    "level": 38,
+    "price": 10000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 10,
+      "archery": 26,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 20,
+      "stab": 14,
+      "archery": 24,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 0,
+      "archery": 24,
+      "magic": 0
+    }
+  },
+
+  "gbwingarcherarmor": {
+    "type": "armourarcher",
+    "name": "GbwinGarcherArmour",
+    "skill": "archery",
+    "level": 38,
+    "price": 500,
+    "attackStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 10,
+      "archery": 26,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 22,
+      "stab": 12,
+      "archery": 14,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 22,
+      "magic": 0
+    }
+  },
+
+  "redwingarcherarmor": {
+    "type": "armourarcher",
+    "name": "Броня лучника Красного крыла",
+    "skill": "archery",
+    "level": 40,
+    "price": 5000,
+    "attackStats": {
+      "crush": 18,
+      "slash": 28,
+      "stab": 14,
+      "archery": 14,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 26,
+      "stab": 12,
+      "archery": 20,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 0,
+      "archery": 24,
+      "magic": 0
+    }
+  },
+
+  "snowfoxarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника Снежного Лиса",
+    "skill": "archery",
+    "level": 44,
+    "price": 5000,
+    "attackStats": {
+      "crush": 28,
+      "slash": 28,
+      "stab": 15,
+      "archery": 15,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 32,
+      "stab": 12,
+      "archery": 18,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 0,
+      "archery": 26,
+      "magic": 0
+    }
+  },
+
+  "wolfarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника-волка",
+    "skill": "archery",
+    "level": 44,
+    "price": 5200,
+    "attackStats": {
+      "crush": 28,
+      "slash": 30,
+      "stab": 15,
+      "archery": 30,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 34,
+      "stab": 12,
+      "archery": 24,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 14,
+      "strength": 0,
+      "archery": 26,
+      "magic": 0
+    }
+  },
+
+  "bluewingarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника Синее крыло",
+    "skill": "archery",
+    "level": 46,
+    "price": 5250,
+    "attackStats": {
+      "crush": 28,
+      "slash": 36,
+      "stab": 15,
+      "archery": 30,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 38,
+      "stab": 12,
+      "archery": 18,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 0,
+      "archery": 28,
+      "magic": 0
+    }
+  },
+
+  "fallenarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи павшего лучника",
+    "skill": "archery",
+    "level": 50,
+    "price": 5300,
+    "attackStats": {
+      "crush": 28,
+      "slash": 40,
+      "stab": 15,
+      "archery": 18,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 46,
+      "stab": 6,
+      "archery": 16,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 18,
+      "strength": 0,
+      "archery": 28,
+      "magic": 0
+    }
+  },
+
+  "crystalarcherarmor": {
+    "type": "armourarcher",
+    "name": "Кристаллическая броня лучника",
+    "skill": "archery",
+    "level": 54,
+    "price": 5550,
+    "attackStats": {
+      "crush": 21,
+      "slash": 20,
+      "stab": 35,
+      "archery": 15,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 6,
+      "slash": 18,
+      "stab": 6,
+      "archery": 20,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 0,
+      "archery": 40,
+      "magic": 0
+    }
+  },
+
+  "legolasarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи Леголаса",
+    "skill": "archery",
+    "level": 58,
+    "price": 5005,
+    "attackStats": {
+      "crush": 21,
+      "slash": 20,
+      "stab": 35,
+      "archery": 18,
+      "magic": 10
+    },
+    "defenseStats": {
+      "crush": 6,
+      "slash": 28,
+      "stab": 18,
+      "archery": 20,
+      "magic": 14
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 0,
+      "archery": 44,
+      "magic": 0
+    }
+  },
+
+  "adhererarcherarmor": {
+    "type": "armourarcher",
+    "name": "Адепт брони лучника",
+    "skill": "archery",
+    "level": 64,
+    "price": 5025,
+    "attackStats": {
+      "crush": 21,
+      "slash": 20,
+      "stab": 35,
+      "archery": 25,
+      "magic": 28
+    },
+    "defenseStats": {
+      "crush": 6,
+      "slash": 38,
+      "stab": 18,
+      "archery": 16,
+      "magic": 16
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": 54,
+      "magic": 0
+    }
+  },
+
+  "archerschoolUniform": {
+    "type": "armourarcher",
+    "name": "Школьная форма Арчер",
+    "skill": "archery",
+    "level": 20,
+    "price": 1500,
+    "attackStats": {
+      "crush": 11,
+      "slash": 10,
+      "stab": 15,
+      "archery": 10,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 6,
+      "slash": 18,
+      "stab": 12,
+      "archery": 12,
+      "magic": 6
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 24,
+      "magic": 0
+    }
+  },
+
+  "combatuniform": {
+    "type": "armourarcher",
+    "name": "Боевая форма",
+    "skill": "archery",
+    "level": 40,
+    "price": 5500,
+    "attackStats": {
+      "crush": 11,
+      "slash": 15,
+      "stab": 25,
+      "archery": 17,
+      "magic": 0
+    },
+    "defenseStats": {
+      "crush": 6,
+      "slash": 18,
+      "stab": 18,
+      "archery": 16,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": 16,
+      "magic": 0
+    }
+  },
+
+  "gayarcherarmor": {
+    "type": "armourarcher",
+    "name": "Доспехи лучника"
+  },
+
+  "woodenbow": {
+    "type": "weaponarcher",
+    "name": "Деревянный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 1,
+    "price": 100,
+    "attackStats": {
+      "crush": 5,
+      "slash": 4,
+      "stab": 3,
+      "archery": 10,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 4,
+      "magic": 0
+    }
+  },
+
+  "plasticbow": {
+    "type": "weaponarcher",
+    "name": "Пластиковый лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 3,
+    "price": 500,
+    "attackStats": {
+      "crush": 4,
+      "slash": 6,
+      "stab": 3,
+      "archery": 16,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 7,
+      "magic": 0
+    }
+  },
+
+  "ironbow": {
+    "type": "weaponarcher",
+    "name": "Железный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 7,
+    "price": 3000,
+    "attackStats": {
+      "crush": 3,
+      "slash": 4,
+      "stab": 2,
+      "archery": 21,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 12,
+      "magic": 0
+    }
+  },
+
+  "redbow": {
+    "type": "weaponarcher",
+    "name": "Красный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 11,
+    "price": 3500,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 3,
+      "archery": 25,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 15,
+      "magic": 0
+    }
+  },
+
+  "violetbow": {
+    "type": "weaponarcher",
+    "name": "Фиолетовый лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 14,
+    "price": 2231,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 3,
+      "archery": 31,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 19,
+      "magic": 0
+    }
+  },
+
+  "deathbow": {
+    "type": "weaponarcher",
+    "name": "Лук смерти",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 18,
+    "price": 3268,
+    "attackStats": {
+      "crush": 5,
+      "slash": 4,
+      "stab": 2,
+      "archery": 38,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 22,
+      "magic": 0
+    }
+  },
+
+  "goldenbow": {
+    "type": "weaponarcher",
+    "name": "Золотой лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 22,
+    "price": 5000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 4,
+      "archery": 34,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 25,
+      "magic": 0
+    }
+  },
+
+  "watermelonbow": {
+    "type": "weaponarcher",
+    "name": "Арбузный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 26,
+    "price": 4100,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 3,
+      "archery": 41,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 27,
+      "magic": 0
+    }
+  },
+
+  "greenbow": {
+    "type": "weaponarcher",
+    "name": "Зелёный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 29,
+    "price": 7500,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 3,
+      "archery": 37,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 26,
+      "magic": 0
+    }
+  },
+
+  "redenelbow": {
+    "type": "weaponarcher",
+    "name": "Лук Реденеля",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 33,
+    "price": 5050,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 6,
+      "archery": 34,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 23,
+      "magic": 0
+    }
+  },
+
+  "mermaidbow": {
+    "type": "weaponarcher",
+    "name": "Лук русалки",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 35,
+    "price": 7500,
+    "attackStats": {
+      "crush": 4,
+      "slash": 9,
+      "stab": 4,
+      "archery": 35,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 34,
+      "magic": 0
+    }
+  },
+
+  "seahorsebow": {
+    "type": "weaponarcher",
+    "name": "Лук морского конька",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 35,
+    "price": 550,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 3,
+      "archery": 33,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 30,
+      "magic": 0
+    }
+  },
+
+  "hunterbow": {
+    "type": "weaponarcher",
+    "name": "Охотничий лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 37,
+    "price": 6200,
+    "attackStats": {
+      "crush": 4,
+      "slash": 7,
+      "stab": 4,
+      "archery": 40,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 25,
+      "magic": 0
+    }
+  },
+
+  "greenlightbow": {
+    "type": "weaponarcher",
+    "name": "Лук зеленого света",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 39,
+    "price": 1170,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 4,
+      "archery": 38,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 24,
+      "magic": 0
+    }
+  },
+
+  "skylightbow": {
+    "type": "weaponarcher",
+    "name": "Лук небесного света",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 42,
+    "price": 6500,
+    "attackStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 3,
+      "archery": 43,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 35,
+      "magic": 0
+    }
+  },
+
+  "redlightbow": {
+    "type": "weaponarcher",
+    "name": "Лук красного света",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 41,
+    "price": 9200,
+    "attackStats": {
+      "crush": 6,
+      "slash": 4,
+      "stab": 4,
+      "archery": 42,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 30,
+      "magic": 0
+    }
+  },
+
+  "captainbow": {
+    "type": "weaponarcher",
+    "name": "Капитанский Лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 44,
+    "price": 7150,
+    "attackStats": {
+      "crush": 4,
+      "slash": 7,
+      "stab": 5,
+      "archery": 55,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 30,
+      "magic": 0
+    }
+  },
+
+  "candybow": {
+    "type": "weaponarcher",
+    "name": "Конфетный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 69,
+    "price": 11150,
+    "attackStats": {
+      "crush": 4,
+      "slash": 7,
+      "stab": 0,
+      "archery": 80,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 50,
+      "magic": 0
+    }
+  },
+
+  "redmetalbow": {
+    "type": "weaponarcher",
+    "name": "Красный металлический лук",
+    "weaponType": "bow",
+    "attackRate": 1500,
+    "skill": "archery",
+    "level": 45,
+    "price": 7150,
+    "attackStats": {
+      "crush": 10,
+      "slash": 4,
+      "stab": 6,
+      "archery": 68,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 40,
+      "magic": 0
+    }
+  },
+
+  "justicebow": {
+    "type": "weaponarcher",
+    "name": "Поклон правосудию",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 45,
+    "price": 2100,
+    "attackStats": {
+      "crush": 2,
+      "slash": 6,
+      "stab": 4,
+      "archery": 55,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 33,
+      "magic": 0
+    }
+  },
+
+  "rosebow": {
+    "type": "weaponarcher",
+    "name": "Розовый лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 50,
+    "price": 2150,
+    "attackStats": {
+      "crush": 10,
+      "slash": 6,
+      "stab": 0,
+      "archery": 55,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 38,
+      "magic": 0
+    }
+  },
+
+  "marinebow": {
+    "type": "weaponarcher",
+    "name": "Морской лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 52,
+    "price": 2210,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 54,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 35,
+      "magic": 0
+    }
+  },
+
+  "crystalbow": {
+    "type": "weaponarcher",
+    "name": "Хрустальный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 53,
+    "price": 2250,
+    "attackStats": {
+      "crush": 2,
+      "slash": 6,
+      "stab": 6,
+      "archery": 60,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 38,
+      "magic": 0
+    }
+  },
+
+  "gaybow": {
+    "type": "weaponarcher",
+    "name": "Гей лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 54,
+    "price": 25000,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 62,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 40,
+      "magic": 0
+    }
+  },
+
+  "forestbow": {
+    "type": "weaponarcher",
+    "name": "Лесной лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 55,
+    "price": 12500,
+    "attackStats": {
+      "crush": 10,
+      "slash": 4,
+      "stab": 7,
+      "archery": 70,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 44,
+      "magic": 0
+    }
+  },
+
+  "sicklebow": {
+    "type": "weaponarcher",
+    "name": "Серповидный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 56,
+    "price": 30000,
+    "attackStats": {
+      "crush": 10,
+      "slash": 8,
+      "stab": 5,
+      "archery": 75,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 50,
+      "magic": 0
+    }
+  },
+
+  "bloodbow": {
+    "type": "weaponarcher",
+    "name": "Кровавый лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 58,
+    "price": 12201,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 3,
+      "archery": 70,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 50,
+      "magic": 0
+    }
+  },
+
+  "redsicklebow": {
+    "type": "weaponarcher",
+    "name": "Красный серповидный лук",
+    "weaponType": "bow",
+    "skill": "archery",
+    "level": 66,
+    "price": 13150,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 5,
+      "archery": 85,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 55,
+      "magic": 0
+    }
+  },
+
+  "clotharmor": {
+    "type": "armour",
+    "name": "Суконная броня"
+  },
+
+  "leatherarmor": {
+    "type": "armour",
+    "name": "Кожаные доспехи",
+    "price": 2000,
+    "level": 2,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": -3
+    },
+    "defenseStats": {
+      "crush": 8,
+      "slash": 12,
+      "stab": 3,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 5,
+      "archery": -2,
+      "magic": 0
+    }
+  },
+
+  "mailarmor": {
+    "type": "armour",
+    "name": "Цепная почта",
+    "price": 3202,
+    "level": 6,
+    "attackStats": {
+      "crush": 4,
+      "slash": 6,
+      "stab": 5,
+      "archery": 0,
+      "magic": -3
+    },
+    "defenseStats": {
+      "crush": 10,
+      "slash": 14,
+      "stab": 5,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 5,
+      "archery": -5,
+      "magic": 0
+    }
+  },
+
+  "platearmor": {
+    "type": "armour",
+    "name": "Стальная броня",
+    "price": 5000,
+    "level": 12,
+    "attackStats": {
+      "crush": 2,
+      "slash": 4,
+      "stab": 4,
+      "archery": 0,
+      "magic": -3
+    },
+    "defenseStats": {
+      "crush": 8,
+      "slash": 12,
+      "stab": 9,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 6,
+      "archery": -4,
+      "magic": 0
+    }
+  },
+
+  "redarmor": {
+    "type": "armour",
+    "name": "Рубиновая броня",
+    "price": 1000,
+    "level": 18,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 3,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 20,
+      "stab": 12,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 8,
+      "archery": -3,
+      "magic": 0
+    }
+  },
+
+  "goldenarmor": {
+    "type": "armour",
+    "name": "Золотые доспехи",
+    "price": 2500,
+    "level": 23,
+    "attackStats": {
+      "crush": 6,
+      "slash": 12,
+      "stab": 5,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 14,
+      "slash": 24,
+      "stab": 14,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 10,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "greenarmor": {
+    "type": "armour",
+    "name": "Зеленая броня",
+    "price": 3000,
+    "level": 28,
+    "attackStats": {
+      "crush": 7,
+      "slash": 14,
+      "stab": 8,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 22,
+      "slash": 20,
+      "stab": 16,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 6,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "greenwingarmor": {
+    "type": "armour",
+    "name": "Броня Зеленое крыло",
+    "price": 2500,
+    "level": 28,
+    "attackStats": {
+      "crush": 7,
+      "slash": 14,
+      "stab": 8,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 24,
+      "slash": 23,
+      "stab": 18,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 8,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "guardarmor": {
+    "type": "armour",
+    "name": "Гвардейская броня",
+    "price": 5000,
+    "level": 36,
+    "attackStats": {
+      "crush": 10,
+      "slash": 18,
+      "stab": 12,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 28,
+      "slash": 24,
+      "stab": 20,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 12,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "redguardarmor": {
+    "type": "armour",
+    "name": "Доспехи Красной гвардии",
+    "price": 2750,
+    "level": 40,
+    "attackStats": {
+      "crush": 10,
+      "slash": 18,
+      "stab": 12,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 28,
+      "slash": 28,
+      "stab": 22,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 14,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "whitearmor": {
+    "type": "armour",
+    "name": "Белая броня",
+    "price": 3000,
+    "level": 46,
+    "attackStats": {
+      "crush": 12,
+      "slash": 24,
+      "stab": 14,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 32,
+      "slash": 32,
+      "stab": 22,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 16,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "ratarmor": {
+    "type": "armour",
+    "name": "Крысиная броня",
+    "price": 3000,
+    "level": 52,
+    "attackStats": {
+      "crush": 12,
+      "slash": 24,
+      "stab": 13,
+      "archery": 0,
+      "magic": -2
+    },
+    "defenseStats": {
+      "crush": 34,
+      "slash": 30,
+      "stab": 26,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 20,
+      "archery": -4,
+      "magic": 0
+    }
+  },
+
+  "piratearmor": {
+    "type": "armour",
+    "name": "Пиратские доспехи",
+    "price": 7500,
+    "level": 55,
+    "attackStats": {
+      "crush": 13,
+      "slash": 25,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 36,
+      "slash": 36,
+      "stab": 30,
+      "archery": 0,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 11,
+      "strength": 21,
+      "archery": -2,
+      "magic": 0
+    }
+  },
+
+  "greenpiratearmor": {
+    "type": "armour",
+    "name": "Пиратская броня",
+    "price": 7500,
+    "level": 55,
+    "attackStats": {
+      "crush": 13,
+      "slash": 25,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 36,
+      "slash": 36,
+      "stab": 30,
+      "archery": 0,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 11,
+      "strength": 21,
+      "archery": -2,
+      "magic": 0
+    }
+  },
+
+  "purplepiratearmor": {
+    "type": "armour",
+    "name": "Пиратская броня",
+    "price": 7500,
+    "level": 55,
+    "attackStats": {
+      "crush": 13,
+      "slash": 25,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 36,
+      "slash": 36,
+      "stab": 30,
+      "archery": 0,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 11,
+      "strength": 21,
+      "archery": -2,
+      "magic": 0
+    }
+  },
+
+  "redpiratearmor": {
+    "type": "armour",
+    "name": "Пиратская броня",
+    "price": 7500,
+    "level": 55,
+    "attackStats": {
+      "crush": 13,
+      "slash": 25,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 36,
+      "slash": 36,
+      "stab": 30,
+      "archery": 0,
+      "magic": 2
+    },
+    "bonuses": {
+      "accuracy": 11,
+      "strength": 21,
+      "archery": -2,
+      "magic": 0
+    }
+  },
+
+  "cheoliarmor": {
+    "type": "armour",
+    "name": "Чеолийская броня",
+    "price": 4000,
+    "level": 60,
+    "attackStats": {
+      "crush": 13,
+      "slash": 25,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 38,
+      "slash": 40,
+      "stab": 33,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 22,
+      "archery": -3,
+      "magic": 0
+    }
+  },
+
+  "dovakinarmor": {
+    "type": "armour",
+    "name": "Броня Довакина",
+    "price": 10500,
+    "level": 58,
+    "attackStats": {
+      "crush": 13,
+      "slash": 30,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 30,
+      "slash": 46,
+      "stab": 28,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 13,
+      "strength": 25,
+      "archery": -10,
+      "magic": 0
+    }
+  },
+
+  "gbwingarmor": {
+    "type": "armour",
+    "name": "Крылатая броня ГБ",
+    "price": 4500,
+    "level": 64,
+    "attackStats": {
+      "crush": 13,
+      "slash": 32,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 30,
+      "slash": 46,
+      "stab": 28,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 13,
+      "strength": 25,
+      "archery": -8,
+      "magic": 0
+    }
+  },
+
+  "redwingarmor": {
+    "type": "armour",
+    "name": "Броня Красное крыло",
+    "price": 4500,
+    "level": 66,
+    "attackStats": {
+      "crush": 13,
+      "slash": 40,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 30,
+      "slash": 50,
+      "stab": 28,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 13,
+      "strength": 25,
+      "archery": -5,
+      "magic": 0
+    }
+  },
+
+  "snowfoxarmor": {
+    "type": "armour",
+    "name": "Броня снежного лиса",
+    "price": 5000,
+    "level": 78,
+    "attackStats": {
+      "crush": 13,
+      "slash": 40,
+      "stab": 15,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 30,
+      "slash": 40,
+      "stab": 28,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 13,
+      "strength": 26,
+      "archery": -4,
+      "magic": 0
+    }
+  },
+
+  "wolfarmor": {
+    "type": "armour",
+    "name": "Волчья броня",
+    "price": 7500,
+    "level": 80,
+    "attackStats": {
+      "crush": 11,
+      "slash": 38,
+      "stab": 13,
+      "archery": 0,
+      "magic": -5
+    },
+    "defenseStats": {
+      "crush": 30,
+      "slash": 40,
+      "stab": 28,
+      "archery": 0,
+      "magic": -10
+    },
+    "bonuses": {
+      "accuracy": 20,
+      "strength": 14,
+      "archery": -10,
+      "magic": -10
+    }
+  },
+
+  "bluewingarmor": {
+    "type": "armour",
+    "name": "Доспехи синего крыла",
+    "price": 5000,
+    "level": 78,
+    "attackStats": {
+      "crush": 13,
+      "slash": 48,
+      "stab": 15,
+      "archery": 0,
+      "magic": -8
+    },
+    "defenseStats": {
+      "crush": 34,
+      "slash": 42,
+      "stab": 20,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 28,
+      "archery": -10,
+      "magic": -4
+    }
+  },
+
+  "thiefarmor": {
+    "type": "armour",
+    "name": "Броня вора",
+    "price": 5500,
+    "level": 78,
+    "attackStats": {
+      "crush": 13,
+      "slash": 48,
+      "stab": 24,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 32,
+      "stab": 16,
+      "archery": 0,
+      "magic": 5
+    },
+    "bonuses": {
+      "accuracy": 14,
+      "strength": 28,
+      "archery": 3,
+      "magic": 0
+    }
+  },
+
+  "ninjaarmor": {
+    "type": "armour",
+    "name": "Броня ниндзя",
+    "price": 6000,
+    "level": 84,
+    "attackStats": {
+      "crush": 15,
+      "slash": 50,
+      "stab": 24,
+      "archery": 0,
+      "magic": 2
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 32,
+      "stab": 16,
+      "archery": 0,
+      "magic": 5
+    },
+    "bonuses": {
+      "accuracy": 15,
+      "strength": 28,
+      "archery": 4,
+      "magic": 0
+    }
+  },
+
+  "dragonarmor": {
+    "type": "armour",
+    "name": "Драконья броня",
+    "price": 12500,
+    "level": 90,
+    "attackStats": {
+      "crush": 12,
+      "slash": 40,
+      "stab": 24,
+      "archery": 0,
+      "magic": 14
+    },
+    "defenseStats": {
+      "crush": 24,
+      "slash": 32,
+      "stab": 28,
+      "archery": 0,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 30,
+      "archery": 1,
+      "magic": 0
+    }
+  },
+
+  "fallenarmor": {
+    "type": "armour",
+    "name": "Павшая броня",
+    "price": 7500,
+    "level": 94,
+    "attackStats": {
+      "crush": 28,
+      "slash": 34,
+      "stab": 32,
+      "archery": 0,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 20,
+      "stab": 32,
+      "archery": 0,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 12,
+      "strength": 28,
+      "archery": -12,
+      "magic": 0
+    }
+  },
+
+  "paladinarmor": {
+    "type": "armour",
+    "name": "Броня паладина",
+    "price": 10000,
+    "level": 102,
+    "attackStats": {
+      "crush": 28,
+      "slash": 36,
+      "stab": 32,
+      "archery": 0,
+      "magic": 8
+    },
+    "defenseStats": {
+      "crush": 18,
+      "slash": 24,
+      "stab": 30,
+      "archery": 0,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 30,
+      "archery": -8,
+      "magic": 0
+    }
+  },
+
+  "crystalarmor": {
+    "type": "armour",
+    "name": "Кристаллическая броня",
+    "price": 20000,
+    "level": 110,
+    "attackStats": {
+      "crush": 58,
+      "slash": 76,
+      "stab": 42,
+      "archery": 0,
+      "magic": 22
+    },
+    "defenseStats": {
+      "crush": 8,
+      "slash": 4,
+      "stab": 10,
+      "archery": 0,
+      "magic": 40
+    },
+    "bonuses": {
+      "accuracy": 20,
+      "strength": 10,
+      "archery": -8,
+      "magic": 0
+    }
+  },
+
+  "adhererrobe": {
+    "type": "armour",
+    "name": "Халат адепта",
+    "price": 20000,
+    "skill": "magic",
+    "level": 38,
+    "attackStats": {
+      "crush": 32,
+      "slash": 20,
+      "stab": 28,
+      "archery": 0,
+      "magic": 40
+    },
+    "defenseStats": {
+      "crush": 8,
+      "slash": 4,
+      "stab": 10,
+      "archery": 0,
+      "magic": 65
+    },
+    "bonuses": {
+      "accuracy": 7,
+      "strength": 10,
+      "archery": -4,
+      "magic": 18
+    }
+  },
+
+  "frostarmor": {
+    "type": "armour",
+    "name": "Морозная броня",
+    "price": 20000,
+    "level": 100,
+    "attackStats": {
+      "crush": 38,
+      "slash": 56,
+      "stab": 22,
+      "archery": 0,
+      "magic": 26
+    },
+    "defenseStats": {
+      "crush": 24,
+      "slash": 16,
+      "stab": 14,
+      "archery": 0,
+      "magic": 36
+    },
+    "bonuses": {
+      "accuracy": 10,
+      "strength": 18,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "gayarmor": {
+    "type": "armour",
+    "name": "Гей Броня"
+  },
+
+  "schooluniform": {
+    "type": "armour",
+    "name": "Школьная форма"
+  },
+
+  "beautifullife": {
+    "type": "armour",
+    "name": "Красивая жизнь"
+  },
+    
+  "regionarmor": {
+    "type": "armour",
+    "name": "Регион Броня",
+    "price": 20000,
+    "level": 200,
+    "attackStats": {
+      "crush": 38,
+      "slash": 26,
+      "stab": 32,
+      "archery": 0,
+      "magic": 16
+    },
+    "defenseStats": {
+      "crush": 124,
+      "slash": 86,
+      "stab": 64,
+      "archery": 0,
+      "magic": 36
+    },
+    "bonuses": {
+      "accuracy": 6,
+      "strength": 40,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "ghostrider": {
+    "type": "armour",
+    "name": "Призрачный гонщик"
+  },
+
+  "taekwondo": {
+    "type": "armourskin",
+    "name": "Тхэквондо"
+  },
+
+  "rabbitarmor": {
+    "type": "armour",
+    "name": "Кроличья броня",
+    "price": 20000,
+    "movementModifier": 0.95,
+    "level": 88,
+    "attackStats": {
+      "crush": 15,
+      "slash": 30,
+      "stab": 20,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 36,
+      "slash": 26,
+      "stab": 16,
+      "archery": 0,
+      "magic": 12
+    },
+    "bonuses": {
+      "accuracy": 18,
+      "strength": 12,
+      "archery": 6,
+      "magic": 0
+    }
+  },
+
+  "portalarmor": {
+    "type": "armour",
+    "name": "Портальная броня",
+    "price": 20000
+  },
+
+  "pirateking": {
+    "type": "armour",
+    "name": "Король пиратов",
+    "price": 20000
+  },
+
+  "seadragonarmor": {
+    "type": "armour",
+    "name": "Доспехи морского дракона",
+    "price": 20000
+  },
+
+  "shadowregionarmor": {
+    "type": "armour",
+    "name": "Доспехи Теневого края",
+    "price": 20000
+  },
+
+  "enelarmor": {
+    "type": "armour",
+    "name": "Энел Броня",
+    "price": 20000
+  },
+
+  "miniseadragonarmor": {
+    "type": "armour",
+    "name": "Мини-броня морского дракона"
+  },
+
+  "huniarmor": {
+    "type": "armourskin",
+    "name": "Броня Хуни"
+  },
+
+  "damboarmor": {
+    "type": "armourskin",
+    "name": "Доспехи Дамбо"
+  },
+
+  "squidarmor": {
+    "type": "armour",
+    "name": "Броня кальмара"
+  },
+
+  "beearmor": {
+    "type": "armour",
+    "name": "Пчелиная броня"
+  },
+
+  "bluedamboarmor": {
+    "type": "armourskin",
+    "name": "Синяя броня Дамбо"
+  },
+
+  "rudolfarmor": {
+    "type": "armour",
+    "name": "Оленья броня"
+  },
+
+  "christmasarmor": {
+    "type": "armour",
+    "name": "Рождественские доспехи"
+  },
+
+  "robotarmor": {
+    "type": "armourskin",
+    "name": "Броня робота"
+  },
+
+  "pinkcockroacharmor": {
+    "type": "armour",
+    "name": "Розовые тараканьи доспехи"
+  },
+
+  "cockroachsuit": {
+    "type": "armour",
+    "name": "Костюм таракана",
+    "attackStats": {
+      "crush": 5,
+      "slash": 6,
+      "stab": 7,
+      "archery": 0,
+      "magic": 3
+    },
+    "defenseStats": {
+      "crush": 38,
+      "slash": 35,
+      "stab": 35,
+      "archery": 25,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 3,
+      "archery": -10,
+      "magic": -10
+    }
+  },
+
+  "dinosaurarmor": {
+    "type": "armourskin",
+    "name": "Доспехи динозавра"
+  },
+
+  "catarmor": {
+    "type": "armourskin",
+    "name": "Кошачья броня"
+  },
+
+  "snowmanarmor": {
+    "type": "armour",
+    "name": "Доспехи снеговика"
+  },
+
+  "beetlearmor": {
+    "type": "armour",
+    "name": "Доспехи жука"
+  },
+
+  "hongcheolarmor": {
+    "type": "armour",
+    "name": "Броня Хончхоль"
+  },
+
+  "tigerarmor": {
+    "type": "armour",
+    "name": "Тигровая броня"
+  },
+
+  "wizardrobe": {
+    "type": "armour",
+    "name": "Халат волшебника",
+    "price": 1000,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 14
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 1,
+      "stab": 0,
+      "archery": 0,
+      "magic": 10
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": -1,
+      "magic": 4
+    }
+  },
+
+  "orangewizardrobe": {
+    "type": "armour",
+    "name": "Халат молнии",
+    "skill": "magic",
+    "level": 12,
+    "price": 1500,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 21
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 1,
+      "stab": 0,
+      "archery": 0,
+      "magic": 18
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": -1,
+      "magic": 7
+    }
+  },
+
+  "greenwizardrobe": {
+    "type": "armour",
+    "name": "Природный халат",
+    "skill": "magic",
+    "price": 4000,
+    "level": 21,
+    "attackStats": {
+      "crush": 4,
+      "slash": 8,
+      "stab": 4,
+      "archery": 0,
+      "magic": 28
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 1,
+      "stab": 0,
+      "archery": 0,
+      "magic": 21
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 0,
+      "archery": -4,
+      "magic": 9
+    }
+  },
+
+  "darkwizardrobe": {
+    "type": "armour",
+    "name": "Темный халат",
+    "skill": "magic",
+    "level": 30,
+    "price": 5000,
+    "attackStats": {
+      "crush": 6,
+      "slash": 10,
+      "stab": 8,
+      "archery": 0,
+      "magic": 46
+    },
+    "defenseStats": {
+      "crush": 4,
+      "slash": 3,
+      "stab": 3,
+      "archery": 0,
+      "magic": 36
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 3,
+      "archery": -6,
+      "magic": 17
+    }
+  },
+
+  "bluewizardrobe": {
+    "type": "armour",
+    "name": "Ледяной халат",
+    "skill": "magic",
+    "level": 40,
+    "price": 5200,
+    "attackStats": {
+      "crush": 8,
+      "slash": 12,
+      "stab": 11,
+      "archery": 0,
+      "magic": 55
+    },
+    "defenseStats": {
+      "crush": -4,
+      "slash": -8,
+      "stab": -1,
+      "archery": 0,
+      "magic": 49
+    },
+    "bonuses": {
+      "accuracy": 5,
+      "strength": 5,
+      "archery": -7,
+      "magic": 29
+    }
+  },
+
+  "ironknightarmor": {
+    "type": "armour",
+    "name": "Доспехи железного рыцаря",
+    "level": 160,
+    "price": 10000,
+    "attackStats": {
+      "crush": 38,
+      "slash": 56,
+      "stab": 26,
+      "archery": 0,
+      "magic": 26
+    },
+    "defenseStats": {
+      "crush": 54,
+      "slash": 46,
+      "stab": 34,
+      "archery": 0,
+      "magic": 36
+    },
+    "bonuses": {
+      "accuracy": 14,
+      "strength": 22,
+      "archery": -1,
+      "magic": 0
+    }
+  },
+
+  "evilarmor": {
+    "type": "armour",
+    "name": "Злая броня"
+  },
+
+  "greendamboarmor": {
+    "type": "armourskin",
+    "name": "Зеленая броня Дамбо"
+  },
+
+  "reddamboarmor": {
+    "type": "armourskin",
+    "name": "Красная броня Дамбо"
+  },
+
+  "devilkazyaarmor": {
+    "type": "armour",
+    "name": "Доспехи дьявола Казья"
+  },
+
+  "samuraiarmor": {
+    "type": "armour",
+    "name": "Самурайские доспехи"
+  },
+
+  "blackspiderarmor": {
+    "type": "armour",
+    "name": "Доспехи черного паука",
+    "price": 15000,
+    "level": 54,
+    "attackStats": {
+      "crush": 20,
+      "slash": 20,
+      "stab": 20,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 20,
+      "slash": 34,
+      "stab": 18,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 12,
+      "archery": 7,
+      "magic": 0
+    }
+  },
+
+  "frogarmor": {
+    "type": "armour",
+    "name": "Лягушачья броня",
+    "price": 7500
+  },
+
+  "bearseonbiarmor": {
+    "type": "armour",
+    "name": "Броня Беарсонби"
+  },
+
+  "rainbowapro": {
+    "type": "armourskin",
+    "name": "Радуга Профи"
+  },
+
+  "cokearmor": {
+    "type": "armourskin",
+    "name": "Коксовая броня"
+  },
+
+  "friedpotatoarmor": {
+    "type": "armourskin",
+    "name": "Броня из жареного картофеля"
+  },
+
+  "burgerarmor": {
+    "type": "armourskin",
+    "name": "Бургерная броня"
+  },
+
+  "radisharmor": {
+    "type": "armourskin",
+    "name": "Доспехи из редиса"
+  },
+
+  "halloweenjkarmor": {
+    "type": "armourskin",
+    "name": "Хэллоуин JK броня"
+  },
+
+  "frankensteinarmor": {
+    "type": "armourskin",
+    "name": "Доспехи Франкенштейна"
+  },
+
+  "adminarmor": {
+    "type": "armour",
+    "name": "Admin",
+    "level": 225,
+    "attackStats": {
+      "crush": 88,
+      "slash": 130,
+      "stab": 78,
+      "archery": 0,
+      "magic": 50
+    },
+    "defenseStats": {
+      "crush": 160,
+      "slash": 198,
+      "stab": 146,
+      "archery": 0,
+      "magic": 68
+    },
+    "bonuses": {
+      "accuracy": 14,
+      "strength": 48,
+      "archery": 32,
+      "magic": 0
+    }
+  },
+
+  "flask": {
+    "type": "object",
+    "name": "Колба",
+    "description": "Колба, используемая для увеличения здоровья от одной точки до другой. На сколько оно увеличивается? +100 HP!",
+    "storeCount": 10,
+    "price": 40,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 25,
+    "plugin": "healthflask",
+    "healAmount": 100
+  },
+
+  "hotsauce": {
+    "type": "object",
+    "name": "Острый соус",
+    "description": "Очень странно, почему случайные мобы носят с собой этот предмет. Например, для чего они могут его использовать?",
+    "price": 150,
+    "edible": true,
+    "plugin": "hotsauce"
+  },
+
+  "cure": {
+    "type": "object",
+    "name": "Антидот",
+    "description": "Вы отравлены? Вы вступили в схватку с ядовитой змеей или ядовитым пауком? Тогда это лекарство для вас!",
+    "storeCount": 10,
+    "price": 150,
+    "stackable": false,
+    "edible": true,
+    "plugin": "poisoncure"
+  },
+
+  "manaflask": {
+    "type": "object",
+    "name": "Фляга маны",
+    "description": "Освежающий напиток для тех, у кого мало маны! +35 MP!",
+    "storeCount": 10,
+    "price": 200,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 30,
+    "plugin": "healthflask",
+    "manaAmount": 35
+  },
+
+  "burger": {
+    "type": "object",
+    "name": "Бургер",
+    "description": "Как бургер попал в фантастический мир? Кто знает, но он очень вкусный! +200 HP!",
+    "storeCount": 10,
+    "price": 350,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 7,
+    "plugin": "healthflask",
+    "healAmount": 200
+  },
+
+  "bigflask": {
+    "type": "object",
+    "name": "Большая фляга",
+    "description": "Она похожа на другую колбу, только она больше, поэтому, очевидно, она должна исцелять больше! +250 HP!",
+    "storeCount": 10,
+    "price": 600,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 5,
+    "plugin": "healthflask",
+    "healAmount": 250
+  },
+
+  "bigmanaflask": {
+    "type": "object",
+    "name": "Большая фляга маны",
+    "description": "Для тех, кто серьезно жаждет маны! +95 MP!",
+    "storeCount": 10,
+    "price": 600,
+    "stackable": true,
+    "edible": true,
+    "maxStackSize": 10,
+    "plugin": "healthflask",
+    "manaAmount": 95
+  },
+
+  "firepotion": {
+    "type": "object",
+    "name": "Огненное зелье",
+    "price": 250,
+    "maxStackSize": 3,
+    "description": "Вам немного жарко? Вы обгорели до хруста и не можете избавиться от чувства жжения? Огненное зелье - вот ответ на ваши недуги!",
+    "edible": true,
+    "plugin": "firepotion"
+  },
+
+  "cake": {
+    "type": "object",
+    "name": "Торт [Квест]",
+    "undroppable": true
+  },
+
+  "book": {
+    "type": "object",
+    "name": "Книга [Квест]",
+    "undroppable": true
+  },
+
+  "cd": {
+    "type": "object",
+    "name": "CD [Квест]",
+    "description": "Диск, полученный умирающим солдатом рядовым Райаном. Содержит его последний микстейп. Наверное, я должен передать это его сексуальной жене или что-то в этом роде.",
+    "undroppable": true
+  },
+       
+  "snowpotion": {
+    "type": "object",
+    "name": "Снежное зелье",
+    "price": 25,
+    "description": "Магическое зелье, полученное у какого-то странного памятника. Оно временно предотвращает получение игроком урона от холода.",
+    "stackable": true,
+    "maxStackSize": 3,
+    "respawnDelay": 120000,
+    "edible": true,
+    "plugin": "snowpotion"
+  },
+
+  "royalazalea": {
+    "type": "object",
+    "name": "Королевская азалия"
+  },
+
+  "blackpotion": {
+    "type": "object",
+    "name": "Черное зелье",
+    "price": 100,
+    "description": "Это зелье совсем не подозрительно. Пейте, оно очень вкусное!",
+    "plugin": "blackpotion",
+    "edible": true
+  },
+
+  "gold": {
+    "type": "object",
+    "name": "Золото",
+    "stackable": true,
+    "description": "Очень полезный блестящий металл, который люди почему-то любят обменивать на товары."
+  },
+
+  "token": {
+    "type": "object",
+    "name": "Token",
+    "stackable": true,
+    "description": "Особый жетон, который можно обменять на особые вещи в особом магазине в особом месте."
+  },
+
+  "leafcommon": {
+    "spriteName": "leaf",
+    "type": "craft",
+    "name": "Лист обыкновенный"
+  },
+
+  "leafuncommon": {
+    "spriteName": "leaf",
+    "type": "craft",
+    "name": "Лист Необычный"
+  },
+
+  "leafrare": {
+    "spriteName": "leaf",
+    "type": "craft",
+    "name": "Лист редкий"
+  },
+
+  "branchcommon": {
+    "spriteName": "branch",
+    "type": "craft",
+    "name": "Филиал Общий"
+  },
+
+  "branchuncommon": {
+    "spriteName": "branch",
+    "type": "craft",
+    "name": "Филиал Необычный"
+  },
+
+  "branchrare": {
+    "spriteName": "branch",
+    "type": "craft",
+    "name": "Филиал Редкий"
+  },
+
+  "seedcommon": {
+    "spriteName": "seed",
+    "type": "craft",
+    "name": "Семена обыкновенное"
+  },
+
+  "seeduncommon": {
+    "spriteName": "seed",
+    "type": "craft",
+    "name": "Семена Необычные"
+  },
+
+  "seedrare": {
+    "spriteName": "seed",
+    "type": "craft",
+    "name": "Редкие семена"
+  },
+
+  "clothcommon": {
+    "spriteName": "cloth",
+    "type": "craft",
+    "name": "Ткань Обыкновенная"
+  },
+
+  "clothuncommon": {
+    "spriteName": "cloth",
+    "type": "craft",
+    "name": "Ткань Необычная"
+  },
+
+  "clothcare": {
+    "spriteName": "cloth",
+    "type": "craft",
+    "name": "Ткань редкая"
+  },
+
+  "rockcommon": {
+    "spriteName": "rock",
+    "type": "craft",
+    "name": "Обыкновенный камень"
+  },
+
+  "rockuncommon": {
+    "spriteName": "rock",
+    "type": "craft",
+    "name": "Необычный камень"
+  },
+
+  "rockrare": {
+    "spriteName": "rock",
+    "type": "craft",
+    "name": "Редкий камень"
+  },
+
+  "mineralcommon": {
+    "spriteName": "mineral",
+    "type": "craft",
+    "name": "Минерал обыкновенный"
+  },
+
+  "mineraluncommon": {
+    "spriteName": "mineral",
+    "type": "craft",
+    "name": "Минерал Необычный"
+  },
+
+  "mineralrare": {
+    "spriteName": "mineral",
+    "type": "craft",
+    "name": "Минерал Редкий"
+  },
+
+  "elementcommon": {
+    "spriteName": "element",
+    "type": "craft",
+    "name": "Элемент общий"
+  },
+
+  "elementuncommon": {
+    "spriteName": "element",
+    "type": "craft",
+    "name": "Элемент Необычный"
+  },
+
+  "elementrare": {
+    "spriteName": "element",
+    "type": "craft",
+    "name": "Элемент Редкий"
+  },
+
+  "weaponhiltcommon": {
+    "spriteName": "weaponhilt",
+    "type": "craft",
+    "name": "Эфес обычного оружия"
+  },
+
+  "weaponhiltuncommon": {
+    "spriteName": "weaponhilt",
+    "type": "craft",
+    "name": "Необычная рукоять оружия"
+  },
+
+  "weaponhiltrare": {
+    "spriteName": "weaponhilt",
+    "type": "craft",
+    "name": "Эфес редкого оружия"
+  },
+
+  "weaponbladecommon": {
+    "spriteName": "weaponblade",
+    "type": "craft",
+    "name": "Редкая рукоять оружия"
+  },
+
+  "beaponbladeuncommon": {
+    "spriteName": "weaponblade",
+    "type": "craft",
+    "name": "Необычное оружие - клинок"
+  },
+
+  "beaponbladerare": {
+    "spriteName": "weaponblade",
+    "type": "craft",
+    "name": "Редкое оружие - клинок"
+  },
+
+  "armorpatchcommon": {
+    "spriteName": "armorpatches",
+    "type": "craft",
+    "name": "Обычная броневая нашивка"
+  },
+
+  "armorpatchuncommon": {
+    "spriteName": "armorpatches",
+    "type": "craft",
+    "name": "Необычная броневая нашивка"
+  },
+
+  "armorpatchrare": {
+    "spriteName": "armorpatches",
+    "type": "craft",
+    "name": "Редкая броневая нашивка"
+  },
+
+  "armorbindingcommon": {
+    "spriteName": "armorbinding",
+    "type": "craft",
+    "name": "Обычное связывание доспехов"
+  },
+
+  "armorbindinguncommon": {
+    "spriteName": "armorbinding",
+    "type": "craft",
+    "name": "Необычное связывание доспехов"
+  },
+
+  "armorbindingrare": {
+    "spriteName": "armorbinding",
+    "type": "craft",
+    "name": "Редкое связывание доспехов"
+  },
+
+  "woodcommon": {
+    "spriteName": "wood",
+    "type": "craft",
+    "name": "Дерево обыкновенное"
+  },
+
+  "wooduncommon": {
+    "spriteName": "wood",
+    "type": "craft",
+    "name": "Дерево Необычное"
+  },
+
+  "woodrare": {
+    "spriteName": "wood",
+    "type": "craft",
+    "name": "Дерево редкое"
+  },
+
+  "weaponbowlimbcommon": {
+    "spriteName": "bowlimb",
+    "type": "craft",
+    "name": "Лук конечность общая"
+  },
+
+  "weaponbowlimbuncommon": {
+    "spriteName": "bowlimb",
+    "type": "craft",
+    "name": "Лук конечность Необычно"
+  },
+
+  "weaponbowlimbrare": {
+    "spriteName": "bowlimb",
+    "type": "craft",
+    "name": "Конечность лука Редкая"
+  },
+
+  "weaponbowstringcommon": {
+    "spriteName": "bowstring",
+    "type": "craft",
+    "name": "Струна лука обыкновенная"
+  },
+
+  "weaponbowstringuncommon": {
+    "spriteName": "bowstring",
+    "type": "craft",
+    "name": "Струна лука Необычная"
+  },
+
+  "weaponbowstringrare": {
+    "spriteName": "bowstring",
+    "type": "craft",
+    "name": "Струна лука редкая"
+  },
+
+  "sword1": {
+    "type": "weapon",
+    "name": "Лучший меч в слоте",
+    "weaponType": "sword",
+    "level": 1,
+    "price": 100000,
+    "attackStats": {
+      "crush": -69,
+      "slash": -69,
+      "stab": -69,
+      "archery": -69,
+      "magic": -420
+    },
+    "bonuses": {
+      "accuracy": -69,
+      "strength": -69,
+      "archery": -69,
+      "magic": -69
+    }
+  },
+
+  "banana": {
+    "type": "object",
+    "name": "Banana Бум",
+    "description": "Банан - желтый и длинный фрукт. Он является хорошим источником калия и клетчатки.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 700
+  },
+
+  "watermelon": {
+    "type": "object",
+    "name": "Арбуз",
+    "description": "Арбуз, я, наверное, должен разрезать его, прежде чем есть, и потом сходить в туалет.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 800
+  },
+
+  "apple": {
+    "type": "object",
+    "name": "Apple",
+    "description": "Яблоко - отличный источник энергии, не тот что ты должен подать жене.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 450
+  },
+//edit Claus (N1d1)
+  "orange": {
+    "type": "object",
+    "name": "Апельсин",
+    "description": "Забавно, что название фрукта совпадает с его цветом и окраской,Кефтеме",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 750
+  },
+
+  "shardt1": {
+    "type": "object",
+    "price": 1500,
+    "name": "Осколок - Тир 1",
+    "stackable": true,
+    "description": "Осколки - это предметы, используемые для зачарования снаряжения. Каждый уровень представляет собой максимально достижимый уровень зачарования и шанс успешного зачарования."
+  },
+
+  "shardt2": {
+    "type": "object",
+    "price": 3000,
+    "name": "Осколок- Тир 2",
+    "stackable": true,
+    "description": "Осколки - это предметы, используемые для зачарования снаряжения. Каждый уровень представляет собой максимально достижимый уровень зачарования и шанс успешного зачарования."
+  },
+
+  "shardt3": {
+    "type": "object",
+    "price": 4500,
+    "name": "Осколок-Тир 3",
+    "stackable": true,
+    "description": "Осколки - это предметы, используемые для зачарования снаряжения. Каждый уровень представляет собой максимально достижимый уровень зачарования и шанс успешного зачарования."
+  },
+
+  "shardt4": {
+    "type": "object",
+    "price": 6000,
+    "name": "Осколок - Тир 4",
+    "stackable": true,
+    "description": "Осколки - это предметы, используемые для зачарования снаряжения. Каждый уровень представляет собой максимально достижимый уровень зачарования и шанс успешного зачарования."
+  },
+
+  "shardt5": {
+    "type": "object",
+    "price": 7500,
+    "name": "Осколок- Тир 5",
+    "stackable": true,
+    "description": "Осколки - это предметы, используемые для зачарования снаряжения. Каждый уровень представляет собой максимально достижимый уровень зачарования и шанс успешного зачарования."
+  },
+
+  "ghost": {
+    "type": "armour",
+    "name": "Призрак"
+  },
+
+  "pickle": {
+    "type": "armourskin",
+    "name": "Огуречная броня"
+  },
+
+  "bluearmor": {
+    "type": "armour",
+    "name": "Кристаллическая броня"
+  },
+
+  "icesword": {
+    "type": "weapon",
+    "name": "Ледяной меч",
+    "weaponType": "sword",
+    "level": 94,
+    "attackStats": {
+      "crush": 8,
+      "slash": 22,
+      "stab": 12,
+      "archery": 0,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 4,
+      "strength": 4,
+      "archery": 0,
+      "magic": 0
+    },
+    "price": 1000
+  },
+
+  "platinumsword": {
+    "type": "weaponskin",
+    "name": "Платиновый меч"
+  },
+
+  "platinumarmor": {
+    "type": "armour",
+    "name": "Платиновая броня"
+  },
+
+  "logs": {
+    "type": "object",
+    "name": "Бревна",
+    "description": "Ах да, классические бревна. Глядя на них, я вижу, что они сделаны из дерева.",
+    "price": 50
+  },
+
+  "palmlogs": {
+    "type": "object",
+    "name": "Пальмовые бревна",
+    "description": "Забавно, но эти бревна сделаны из пальмового дерева. Это не то же самое, что другие виды древесины.",
+    "price": 75
+  },
+
+  "pinelogs": {
+    "type": "object",
+    "name": "Сосновые бревна",
+    "description": "Я думаю, что нашел их, когда случайно замахнулся топором на дерево, пока оно не упало.",
+    "price": 88
+  },
+
+  "icelogs": {
+    "type": "object",
+    "name": "Ледяные бревна",
+    "price": 65,
+    "description": "Эти бревна сделаны изо льда. Они очень холодные на ощупь. Несмотря ни на что, они не оттают. Интересно, что будет, если положить их в огонь?"
+  },
+  
+
+  "icepalmlogs": {
+    "type": "object",
+    "name": "Бревна ледяной пальмы",
+    "price": 50,
+    "description": "Эти бревна сделаны изо льда и пальмового дерева. Они очень холодные на ощупь."
+  },
+
+  "icepinelogs": {
+    "type": "object",
+    "name": "Бревна из ледяной сосны",
+    "description": "Думаю, я нашел их, когда случайно замахнулся топором на дерево, пока оно не упало.",
+    "price": 85
+  },
+
+  "willowlogs": {
+    "type": "object",
+    "name": "Бревна ивы",
+    "price": 350,
+    "description": "Классический вид древесины. Она твердая, прочная, ее можно использовать для многих вещей. Но сейчас я думаю, что могу его продать."
+  },
+
+  "bloodwoodlogs": {
+    "type": "object",
+    "name": "Бревна из кровяного дерева",
+    "price": 400,
+    "description": "Кажется, что они плачут кровью."
+  },
+
+  "nisocore": {
+    "type": "object",
+    "name": "Низокская руда",
+    "description": "Древняя горная порода, образующаяся в вулканических районах. Обычно используется для изготовления кулонов и колец, а также, возможно, других вещей.",
+    "price": 250
+  },
+
+  "cinnabarore": {
+    "type": "object",
+    "name": "Киноварная руда",
+    "description": "Красная руда, содержащая особые металлы. Может быть использована для изготовления некоторых видов оружия.",
+    "price": 350
+  },
+
+  "pytharore": {
+    "type": "object",
+    "name": "Пифарская руда",
+    "description": "Фиолетовый кристалл с магическими свойствами.",
+    "price": 500
+  },
+
+  "goldore": {
+    "type": "object",
+    "name": "Золотая руда",
+    "description": "Сырая золотая руда, которую нужно обработать, прежде чем превратить во что-то хорошее..",
+    "price": 650
+  },
+
+  "iboore": {
+    "type": "object",
+    "name": "Руда И чо?",
+    "description": "Необычная руда. Ее применение не очень хорошо изучено, но, возможно, при дальнейших исследованиях ее можно будет использовать для чего-нибудь.",
+    "price": 800
+  },
+      
+  "moonrockore": {
+    "type": "object",
+    "name": "Космический осколок",
+    "description": "Часть астроида, упавшего с неба 172 000 земных лет назад. Должен быть особенным!",
+    "price": 2400
+  },
+      
+  "bead": {
+    "type": "object",
+    "name": "Волшебная бусина",
+    "price": 10,
+    "stackable": true,
+    "maxStackSize": 3,
+    "description": "Бусина, обладающая магическими свойствами. Может использоваться в сочетании с другими предметами для создания магических предметов."
+  },
+
+  "lightningbead": {
+    "type": "object",
+    "name": "Бусина-молния",
+    "description": "Магическая бусина, наделенная свойствами молнии. Можно использовать для изготовления магических предметов."
+  },
+
+  "naturebead": {
+    "type": "object",
+    "name": "Волшебная бусина",
+    "description": "Магическая бусина, пропитанная силой природы. Может быть использована для изготовления магических предметов."
+  },
+
+  "firebead": {
+    "type": "object",
+    "name": "Волшебная бусина",
+    "description": "Магическая бусина, пропитанная огнем. Может быть использована для изготовления магических предметов."
+  },
+
+  "icebead": {
+    "type": "object",
+    "name": "Волшебная бусина",
+    "description": "Сильная магическая бусина, вечно замороженная. Можно использовать для изготовления магических предметов."
+  },
+
+  "stick": {
+    "type": "object",
+    "name": "Палка",
+    "price": 150,
+    "description": "Палка. Это палка. Что еще вы хотите, чтобы я сказал об этом,что она прекрасна?"
+  },
+
+  "candykey": {
+    "type": "object",
+    "name": "Конфетный ключ",
+    "price": 50,
+    "description": "Ключ, позволяющий войти в тайную комнату Санты. Разбивается при входе."
+  },
+
+  "accuracypotion": {
+    "type": "object",
+    "name": "Зелье точности",
+    "price": 1000,
+    "description": "Если я что-то и знаю, так это то, что зелья в этом мире всегда халтурили и делают что-то другое, чем подразумевает их название. Надеюсь, что в данном случае это не так.",
+    "edible": true,
+    "plugin": "accuracypotion"
+  },
+
+  "boostpotion": {
+    "type": "object",
+    "name": "Зелье усиления",
+    "price": 2500,
+    "description": "Выпив это, вы, вероятно, ускорите скорость атаки на короткий период времени. Я думаю.",
+    "edible": true,
+    "plugin": "boostpotion"
+  },
+  
+  "defencepotion": {
+    "type": "object",
+    "name": "Защитное зелье",
+    "price": 1000,
+    "description": "Выпив его, вы получите серьезную защиту на короткий промежуток времени.",
+    "edible": true,
+    "plugin": "defencepotion"
+  },
+
+  "strengthpotion": {
+    "type": "object",
+    "name": "Зелье силы",
+    "price": 1000,
+    "description": "Хотите принять участие в соревнованиях по нанесению максимального урона? Это зелье - ваш лучший друг.",
+    "edible": true,
+    "plugin": "strengthpotion"
+  },
+
+  "beermug": {
+    "type": "object",
+    "name": "Пиво",
+    "price": 1000,
+    "description": "Ничто так не освежает, как пиво, хотя это может немного помешать вашей точности.",
+    "edible": true,
+    "plugin": "beermug"
+  },
+
+  "clam": {
+    "type": "object",
+    "name": "Моллюск",
+    "price": 100,
+    "description": "У него твердая внешняя оболочка, но наверняка внутри он очень вкусный."
+  },
+
+  "clamchowder": {
+    "type": "object",
+    "name": "Похлебка из моллюсков",
+    "price": 1000,
+    "description": "Вкусный суп из моллюсков. Правда, он немного солоноват.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 750
+  },
+
+  "rawshrimp": {
+    "type": "object",
+    "name": "Сырые креветки",
+    "price": 100,
+    "description": "Может быть, если я приготовлю это, оно станет чем-то действительно съедобным."
+  },
+
+  "cookedshrimp": {
+    "type": "object",
+    "name": "Приготовленные креветки",
+    "price": 200,
+    "description": "Единственная вареная креветка, одинокая и мертвая. Но все равно вкусная,с пивом то что нужно.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 450
+  },
+
+  "jellyfish": {
+    "type": "object",
+    "name": "Медуза",
+    "price": 100,
+    "description": "Знаете ли вы, что у медуз нет мозга. Так что не стоит так переживать,у ваших врагов тоже!"
+  },
+
+  "jellyfishsmoothie": {
+    "type": "object",
+    "name": "Смузи из медузы",
+    "price": 1000,
+    "description": "Я не могу поверить, что кому-то пришло в голову создать нечто подобное.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 750
+  },
+
+  "kelp": {
+    "type": "object",
+    "name": "Келп",
+    "price": 100,
+    "description": "Келп - это вид морских водорослей, которые растут в океане. Она довольно вкусна в сочетании с другими продуктами."
+  },
+
+  "tuna": {
+    "type": "object",
+    "name": "Тунец",
+    "price": 100,
+    "description": "Рыба, которая часто встречается в океане. Она довольно вкусна в приготовленном виде."
+  },
+
+  "tunasushi": {
+    "type": "object",
+    "name": "Суши с тунцом",
+    "price": 1000,
+    "description": "Вкуснейшие суши из тунца. Возможно, лучшая внутриигровая еда на данный момент, или нет, кто знает, я всего лишь кусок текста.",
+    "edible": true,
+    "plugin": "healthflask",
+    "healAmount": 850
+  },
+
+  "leatherboots": {
+    "type": "boots",
+    "name": "Кожаные сапоги",
+    "price": 150,
+    "attackStats": {
+      "crush": 1,
+      "slash": 2,
+      "stab": 1,
+      "archery": 0,
+      "magic": -4
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 1,
+      "archery": 0,
+      "magic": -4
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "steelboots": {
+    "type": "boots",
+    "name": "Стальные сапоги",
+    "price": 3500,
+    "attackStats": {
+      "crush": 6,
+      "slash": 7,
+      "stab": 4,
+      "archery": 0,
+      "magic": -6
+    },
+    "defenseStats": {
+      "crush": 7,
+      "slash": 12,
+      "stab": 6,
+      "archery": 0,
+      "magic": -5
+    },
+    "bonuses": {
+      "accuracy": 3,
+      "strength": 5,
+      "archery": 0,
+      "magic": 0
+    }
+  },
+
+  "goldboots": {
+    "type": "boots",
+    "name": "Золотые сапоги",
+    "price": 12500,
+    "attackStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 12
+    },
+    "defenseStats": {
+      "crush": 0,
+      "slash": 0,
+      "stab": 0,
+      "archery": 0,
+      "magic": 8
+    },
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 0,
+      "magic": 6
+    }
+  },
+
+  "swiftboots": {
+    "type": "boots",
+    "name": "Сапоги Свифт",
+    "price": 7500,
+    "movementModifier": 0.95,
+    "attackStats": {
+      "crush": 1,
+      "slash": 2,
+      "stab": 1,
+      "archery": 0,
+      "magic": 4
+    },
+    "defenseStats": {
+      "crush": 2,
+      "slash": 3,
+      "stab": 1,
+      "archery": 0,
+      "magic": 4
+    },
+    "bonuses": {
+      "accuracy": 1,
+      "strength": 1,
+      "archery": 1,
+      "magic": 1
+    }
+  },
+
+  "lavaboots": {
+    "type": "boots",
+    "name": "Лавовые сапоги",
+    "price": 21500,
+    "attackStats": {
+      "crush": 9,
+      "slash": 12,
+      "stab": 10,
+      "archery": 0,
+      "magic": 3
+    },
+    "defenseStats": {
+      "crush": 12,
+      "slash": 12,
+      "stab": 12,
+      "archery": 0,
+      "magic": 0
+    },
+    "bonuses": {
+      "accuracy": 8,
+      "strength": 4,
+      "archery": 8,
+      "magic": 0
+    }
+  },
+
+  "arrow": {
+    "type": "arrow",
+    "name": "Стрела",
+    "stackable": true,
+    "maxStackSize": 9999,
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 7,
+      "magic": 0
+    },
+    "projectileName": "projectile-arrow"
+  },
+
+  "firearrow": {
+    "type": "arrow",
+    "name": "Огненная стрела",
+    "price": 2,
+    "stackable": true,
+    "burning": true,
+    "maxStackSize": 9999,
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 12,
+      "magic": 0
+    },
+    "projectileName": "projectile-firearrow"
+  },
+
+  "poisonarrow": {
+    "type": "arrow",
+    "name": "Ядовитая стрела",
+    "price": 2,
+    "stackable": true,
+    "maxStackSize": 9999,
+    "poisonous": true,
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 18,
+      "magic": 0
+    },
+    "projectileName": "projectile-poisonarrow"
+  },
+
+  "lightningarrow": {
+    "type": "arrow",
+    "name": "Стрела молнии",
+    "price": 2,
+    "stackable": true,
+    "maxStackSize": 9999,
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 20,
+      "magic": 0
+    },
+    "projectileName": "projectile-lightningarrow"
+  },
+
+  "icearrow": {
+    "type": "arrow",
+    "name": "Ледяная стрела",
+    "price": 2,
+    "stackable": true,
+    "freezing": true,
+    "maxStackSize": 9999,
+    "bonuses": {
+      "accuracy": 0,
+      "strength": 0,
+      "archery": 24,
+      "magic": 0
+    },
+    "projectileName": "projectile-icearrow"
+  }
+}

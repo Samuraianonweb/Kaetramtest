@@ -1,0 +1,218 @@
+{
+    "ratinfestation": {
+        "name": "Заражение крыс",
+        "description": "Балк Боган нуждается в том, чтобы вы победили 20 крыс!",
+        "npc": "villager",
+        "dialogueHidden": [
+            "Приветствую вас, друзья-авантюристы!", 
+            "Пожалуйста...", "Пожалуйста, помогите мне с этими крысами!", 
+            "Если ты убьешь 20 из них, я...",
+            "Вознагражу  тебя чем-то особенным!"],
+        "dialogueStarted": [
+            "Пожалуйста, эти крысы очень надоедливы!",
+            "Они не дают мне покоя."
+        ],
+
+        "mob": ["rat", "icerat"],
+        "mobCount": 20,
+
+        "rewardSkill": "strength",
+        "rewardExperience": 369
+    },
+
+    "ahiddenpath": {
+        "name": "Скрытый путь",
+        "description": "Откройте для себя скрытую тропу в Мадвиче."
+    },
+
+    "hiddenreward": {
+        "name": "Скрытое вознаграждение",
+        "description": "Убейте несколько секретных жутких скелетов."
+    },
+
+    "wormholes": {
+        "name": "Червоточины",
+        "description": "Расследуйте жуткое происшествие в Мадвиче.",
+        "hidden": true,
+        "rewardAbility": "precognition"
+    },
+
+    "ancientwizard": {
+        "name": "Древний волшебник",
+        "description": "Победите древнего волшебника в Мадвиче!"
+    },
+
+    "crabproblem": {
+        "name": "Морепродукты",
+        "description": "Помогите Буббе, победив 10 крабов!",
+        "hidden": true,
+        "npc": "beachnpc",
+        "dialogueHidden": [
+            "Как дела чувак!",
+            "Слушай, ты не мог бы оказать мне помощь?",
+            "Я вижу, ты неплохо разбираешься в убийствах.",
+            "Не против убить 10 крабов для меня?"
+        ],
+        "dialogueStarted": [
+            "Давай, мужик, пожалуйста, убей мне 10 крабов."
+        ],
+
+        "mob": ["crab", "hermitcrab"],
+        "mobCount": 10,
+
+        "rewardSkill": "accuracy",
+        "rewardExperience": 696
+    },
+
+    "warriorcrab": {
+        "name": "Краб-воин",
+        "description": "Победите воина краба-отшельника, спрятанного на пляже."
+    },
+
+    "sandtreasure": {
+        "name": "Песчаное сокровище",
+        "description": "Найдите сокровища, спрятанные где-то на пляже."
+    },
+
+    "waterguardian": {
+        "name": "Хранитель воды",
+        "description": "Победите Хранителя воды!",
+        "hidden": true
+    },
+
+    "mermaidguard": {
+        "name": "Страж русалка",
+        "description": "Победите русалку, охраняющую морской огурец!",
+        "hidden": true
+    },
+
+    "pirates": {
+        "name": "Пираты",
+        "description": "Под морем есть пираты-скелеты?",
+        "hidden": true
+    },
+
+    "piratestreasure": {
+        "name": "Сокровище пирата",
+        "description": "Найдите сокровища, спрятанные на корабле пиратов.",
+        "hidden": true
+    },
+
+    "babyseadragon": {
+        "name": "Детеныш морского дракона",
+        "description": "Победите детеныша морского дракона-хранителя!"  
+    },
+
+    "underwatertreasure": {
+        "name": "Сундук с водой",
+        "description": "Найдите сокровища, спрятанные под водой."
+    },
+
+    "patsow": {
+        "name": "Патсоу Плеато",
+        "description": "Прибытие на плато Пацов!",
+        "hidden": true
+    },
+
+    "ogreguardian": {
+        "name": "Огр-хранитель",
+        "description": "Победите стража-людоеда!",
+        "rewardExperience": 1420
+    },
+
+    "pathofdeath": {
+        "name": "Путь смерти",
+        "description": "Победите огра, защищающего повелителя огров." ,
+        "hidden": true
+    },
+
+    "treadcarefully": {
+        "name": "Наступайте осторожно",
+        "description": "Я буквально сказал, что нужно быть осторожным.",
+        "hidden": true
+    },
+
+    "goldengolem": {
+        "name": "Золотой голем",
+        "description": "Победите золотого голема!"
+    },
+
+    "skeletonking": {
+        "name": "Король скелетов",
+        "description": "Победите короля скелетов!",
+        "hidden": true,
+
+        "rewardSkill": "strength",
+        "rewardExperience": 12560
+    },
+
+    "ogrelord": {
+        "name": "Повелитель людоедов",
+        "description": "Победите повелителя людоедов!",
+        "hidden": true,
+
+        "rewardSkill": "strength",
+        "rewardExperience": 12560
+    },
+
+    "queenant": {
+        "name": "Королева Муравей",
+        "description": "Победите королеву муравьев!",
+        "hidden": true,
+
+        "rewardSkill": "health",
+        "rewardExperience": 33560
+    },
+
+    "notwhatitseems": {
+        "name": "Жуткое подобие",
+        "description": "Откройте для себя мимику.",
+        "hidden": true,
+
+        "rewardSkill": "magic",
+        "rewardExperience": 85
+    },
+
+    "webdeveloper": {
+        "name": "Веб-разработчик",
+        "description": "Пауки развивают паутину направо и налево!"
+    },
+
+    "vulture": {
+        "name": "Гриф",
+        "description": "Победите стервятника!",
+        "hidden": true
+    },
+
+    "ogresgateway": {
+        "name": "Врата Людоеда",
+        "description": "Откройте секретный портал после победы над ограми."
+    },
+
+    "frozentundra": {
+        "name": "Замерзшая тундра",
+        "description": "Получите доступ к ледяным землям, победив хранителей.",
+        "hidden": true
+    },
+
+    "forestdragon": {
+        "name": "Лесной дракон",
+        "description": "Победите дракона, дремлющего под Мудвичем.",
+        "hidden": true,
+
+        "rewardSkill": "health",
+        "rewardExperience": 52600
+    },
+
+    "gravemystery": {
+        "name": "Могильная тайна",
+        "description": "Обнаружил загадочный набор надгробий.",
+        "secret": true
+    },
+
+    "kaetramdungeon": {
+        "name": "Подземелье Системы",
+        "description": "Обнаружена секретная лестница для входа в подземелье системы!",
+        "secret": true
+    }
+}

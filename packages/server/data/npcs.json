@@ -1,0 +1,255 @@
+{
+  "king": {
+    "name": "King",
+    "text": ["Welcome to the kingdom of Kaetram!", "You have travelled long and far, and for that you have my respect."]
+  },
+
+  "villagegirl": {
+    "name": "Wife",
+    "text": ["Please, call me Azaria."]
+  },
+
+  "villagegirl2": {
+    "name": "Village Girl",
+    "text": ["Hope you're having a good day!"]
+  },
+
+  "villager": {
+    "name": "Forester",
+    "text": ["Good day to you!"],
+    "store": "forester"
+  },
+
+  "miner": {
+    "name": "Miner",
+    "text": ["Leave me alone, I'm busy pretending to work!"],
+    "store": "miner"
+  },
+
+  "beachnpc": {
+    "name": "Bubba",
+    "text": [
+      "Well, thanks for the help.",
+      "Not really doing much but thanks regardless.",
+      "Though I did hear some crunbling east of here, a cave might've opened up.",
+      "This might just be an urban legend but it is said that an entire",
+      "underworld exists beneath the surface of this beach."]
+  },
+
+  "agent": {
+    "name": "Secret Agent",
+    "text": [
+      "Hello there, would you be so kind as to assist me?",
+      "It seems I have stumbled upon this strange phenomenon.",
+      "You see, this cave I am heavily guarding appears to be",
+      "exhibiting a warm-hole like situation.",
+      "Regardless, I feel its best to send a stup-",
+      "I mean, brave adventurer in there rather than me."
+    ]
+  },
+
+  "nyan": {
+    "name": "Nyan Cat (Stale Meme)"
+  },
+
+  "rick": {
+    "name": "Rick"
+  },
+
+  "priest": {
+    "name": "Priest"
+  },
+
+  "guard": {
+    "name": "Guard",
+    "text": ["We're seriously busy at the moment."]
+  },
+
+  "guard2": {
+    "name": "Royal Guard",
+    "text": ["Any form of defiance will be met with death."]
+  },
+
+  "scientist": {
+    "name": "Scientist"
+  },
+
+  "desertnpc": {
+    "name": "Billey"
+  },
+
+  "lavanpc": {
+    "name": "Dying Soldier",
+    "text": ["Thank you for all your help. I will perish in your absence."]
+  },
+
+  "boxingman": {
+    "name": "Mike Tyson",
+    "text": ["Woosh."]
+  },
+
+  "vampire": {
+    "name": "Vampire"
+  },
+
+  "doctor": {
+    "name": "Doctor"
+  },
+
+  "oddeyecat": {
+    "name": "Odd-Eyed Cat"
+  },
+
+  "sorcerer": {
+    "name": "Sorcerer",
+    "store": "sorcerer"
+  },
+
+  "coder": {
+    "name": "Programmer",
+    "text": ["Oh.. This is awkward...", "You may be wondering why I'm here as well.", "Well just letting you know..",
+            "It's definitely not because we're running low on pixel art..", "Regardless.. If you want to join the community",
+            "Our Discord <a target=\"_blank\" href=\"https://discord.gg/MmbGAaw\">is available here!</a>"]
+  },
+
+  "forestNpc": {
+    "name": "Forester"
+  },
+
+  "octocat": {
+    "name": "Octocat",
+    "text": ["Hey there!",
+            "I am the Octocat, the programmer and I",
+            "are very well acquainted.",
+            "In case you did not know, Kaetram is completely open-source.",
+            "You can <a target=\"_blank\" href=\"https://github.com/Kaetram/Kaetram-Open\">check out the source on GitHub!</a>"]
+  },
+
+  "soldier": {
+    "name": "Soldier"
+  },
+
+  "fisherman": {
+    "name": "Fisherman"
+  },
+
+  "octopus": {
+    "name": "Octopus"
+  },
+
+  "mermaidnpc": {
+    "name": "Mermaid"
+  },
+
+  "sponge": {
+    "name": "Sponge"
+  },
+
+  "fairynpc": {
+    "name": "Fairy"
+  },
+
+  "shepherdboy": {
+    "name": "Shepherd Boy"
+  },
+
+  "zombiegf": {
+    "name": "Zombie Girlfriend"
+  },
+
+  "pirategirlnpc": {
+    "name": "Pirate Girl",
+    "text": ["Hi"]
+  },
+
+  "bluebikinigirlnpc": {
+    "name": "Pretzel"
+  },
+
+  "redbikinigirlnpc": {
+    "name": "Flaris"
+  },
+
+  "iamverycoldnpc": {
+    "name": "Babushka"
+  },
+
+  "iceelfnpc": {
+    "name": "Ice Elf"
+  },
+
+  "elfnpc": {
+    "name": "Elf"
+  },
+
+  "snowshepherdboy": {
+    "name": "Sherpa",
+    "text": ["Hello dear adventurer!", "Hope you're enjoying the beautiful sights!"]
+  },
+
+  "angelnpc": {
+    "name": "Angel"
+  },
+
+  "momangelnpc": {
+    "name": "Archangel"
+  },
+
+  "superiorangelnpc": {
+    "name": "Mentor"
+  },
+
+  "firstsonangelnpc": {
+    "name": "Angel"
+  },
+
+  "secondsonangelnpc": {
+    "name": "Superior Angel"
+  },
+
+  "mojojojonpc": {
+    "name": "Monky"
+  },
+
+  "ancientmanumentnpc": {
+    "name": "Ancient Monument"
+  },
+
+  "vendingmachine": {
+    "name": "Enchantment Vendor",
+    "role": "enchanter"
+  },
+
+  "redstoremannpc": {
+    "name": "Banker",
+    "role": "banker"
+  },
+
+  "purplestoremannpc": {
+    "name": "Kosmetics Vendor",
+    "store": "cosmetics"
+  },
+
+  "bluestoremannpc": {
+    "name": "Clerk",
+    "store": "startshop"
+  },
+
+  "royalguard": {
+    "name": "Royal Guard",
+    "text": ["There shall be no trespassing!"]
+  },
+
+  "picklenpc": {
+    "name": "Sea Cucumber"
+  },
+
+  "guildnpc": {
+    "name": "Guild Master"
+  },
+
+  "santaelfnpc": {
+    "name": "Santa's Helper",
+    "text": ["What do you want? I'm busy being overworked."]
+  }
+}
